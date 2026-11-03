@@ -1,4 +1,5 @@
-assets/
-catalog.json
+node_modules/
+dist/
+public/catalog.json
+public/assets/
 .DS_Store
-.playwright-cli/
