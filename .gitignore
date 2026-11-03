@@ -1,0 +1,4 @@
+assets/
+catalog.json
+.DS_Store
+.playwright-cli/

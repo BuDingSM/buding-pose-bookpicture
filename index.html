@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f7f5">
+  <link rel="icon" href="data:,">
+  <title>布丁姿势书 | AI 生图参考库</title>
+  <link rel="stylesheet" href="./library.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar"><a class="brand" href="./"><span class="brand-mark">姿</span><span>布丁姿势书</span></a><div class="side-heading">素材库</div><nav id="type-nav" aria-label="素材分类"></nav><div class="side-bottom"><p>非商业使用 · 素材归原作者所有</p><a href="https://github.com/BuDingSM/buding-pose-bookpicture" target="_blank" rel="noopener noreferrer">GitHub <i class="ti ti-external-link" aria-hidden="true"></i></a></div></aside>
+    <main class="content"><header class="page-top"><div><h1 id="page-title">姿势参考</h1><p id="page-desc">选一个姿势，开启你的创作。</p></div><span class="noncommercial">仅限非商业使用</span></header>
+      <div class="toolbar"><label class="search"><i class="ti ti-search" aria-hidden="true"></i><input id="search" type="search" placeholder="搜索名称、分类或编号" aria-label="搜索名称、分类或编号"></label><button id="favorites" class="filter-button" type="button" aria-pressed="false"><i class="ti ti-heart" aria-hidden="true"></i> <span>收藏</span> <b id="favorite-count">0</b></button></div>
+      <div id="categories" class="category-list" aria-label="筛选分类"></div>
+      <div class="results-head"><div><strong id="result-count">—</strong> <span id="result-label">组姿势</span></div><label class="sensitive"><input id="show-suggestive" type="checkbox"> 显示成人向参考</label></div>
+      <div id="status" class="status" role="status"></div><div id="grid" class="grid"></div>
+      <footer>素材来自 <a href="https://github.com/wquguru/shisei" target="_blank" rel="noopener noreferrer">Shisei</a>，姿势目录参考 ギア。本站整合资源仅供非商业使用，素材原有权利不受影响。</footer>
+    </main>
+  </div>
+  <section class="tray" aria-label="我的搭配"><div id="tray-panel" class="tray-panel" hidden><div class="tray-panel-head"><h2>这一组 · <span id="tray-count">0</span> 件</h2><button id="clear-tray" class="text-button" type="button">清空</button></div><div id="tray-items" class="tray-items"></div><div class="prompt-box"><div><span>合成描述</span><button id="copy-prompt" class="text-button" type="button">复制</button></div><p id="prompt-text"></p></div></div><div class="tray-bar"><span class="tray-label">搭配</span><div id="tray-slots" class="tray-slots"></div><button id="tray-toggle" class="tray-toggle" type="button" aria-expanded="false" aria-controls="tray-panel">展开</button></div></section>
+  <dialog id="detail" class="detail-dialog" aria-label="素材详情"></dialog>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
