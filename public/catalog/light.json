@@ -1,0 +1,1400 @@
+[
+ {
+  "id": "L001",
+  "type": "light",
+  "name": "黎明前蓝调（标准）",
+  "names": {
+   "en": "Pre-dawn Blue (Standard)",
+   "ja": "夜明け前（標準）",
+   "ko": "새벽 블루 (기본)"
+  },
+  "category": "日出日落",
+  "rating": "general",
+  "description": "before sunrise, no direct sun; soft shadowless cool blue light from the whole sky, slightly brighter toward the horizon behind image-right, very low contrast, about 9000 K",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L001_diag.webp",
+     "w900": "assets/light/plain/w900/light_L001_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L001_front.webp",
+     "w900": "assets/light/plain/w900/light_L001_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L001_side.webp",
+     "w900": "assets/light/plain/w900/light_L001_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L002",
+  "type": "light",
+  "name": "日出侧光（标准）",
+  "names": {
+   "en": "Sunrise (Standard)",
+   "ja": "日の出（標準）",
+   "ko": "일출 (기본)"
+  },
+  "category": "日出日落",
+  "rating": "general",
+  "description": "the sun just above the horizon at image-left, 5 degrees high, warm orange direct light raking across the mannequin from its right side, very long cast shadow stretching to image-right across the ground, cool blue sky fill on the shadow side",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L002_front.webp",
+     "w900": "assets/light/plain/w900/light_L002_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L003",
+  "type": "light",
+  "name": "上午斜光（标准）",
+  "names": {
+   "en": "Morning Sun (Standard)",
+   "ja": "午前の斜光（標準）",
+   "ko": "오전 햇빛 (기본)"
+  },
+  "category": "白天",
+  "rating": "general",
+  "description": "mid-morning sun 35 degrees high from image-left and slightly in front, clear neutral-warm daylight about 5000 K, crisp shadows, cast shadow falling back and to image-right at medium length, clear blue sky",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L003_diag.webp",
+     "w900": "assets/light/plain/w900/light_L003_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L003_front.webp",
+     "w900": "assets/light/plain/w900/light_L003_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L003_side.webp",
+     "w900": "assets/light/plain/w900/light_L003_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L004",
+  "type": "light",
+  "name": "正午顶光（标准）",
+  "names": {
+   "en": "Midday Overhead Sun (Standard)",
+   "ja": "正午のトップライト（標準）",
+   "ko": "정오 햇빛 (기본)"
+  },
+  "category": "白天",
+  "rating": "general",
+  "description": "midday sun almost straight overhead, hard white light, short dark shadow pooled directly under the mannequin's feet, deep shadows under the head's brow line, chin and arms, bright top of the head and shoulders, about 5500 K",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L004_diag.webp",
+     "w900": "assets/light/plain/w900/light_L004_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L004_front.webp",
+     "w900": "assets/light/plain/w900/light_L004_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L004_side.webp",
+     "w900": "assets/light/plain/w900/light_L004_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L005",
+  "type": "light",
+  "name": "午后侧光（标准）",
+  "names": {
+   "en": "Afternoon Sun (Standard)",
+   "ja": "午後の光（標準）",
+   "ko": "오후 햇빛 (기본)"
+  },
+  "category": "白天",
+  "rating": "general",
+  "description": "mid-afternoon sun 30 degrees high from image-right and slightly behind the mannequin, warm-neutral light about 4800 K, the mannequin's left edge lit and most of the front in soft shadow, shadow falling forward toward the camera and to image-left",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L005_front.webp",
+     "w900": "assets/light/plain/w900/light_L005_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L007",
+  "type": "light",
+  "name": "黄金时刻逆光（标准）",
+  "names": {
+   "en": "Golden Hour Backlight (Standard)",
+   "ja": "ゴールデンアワー逆光（標準）",
+   "ko": "골든아워 역광 (기본)"
+  },
+  "category": "日出日落",
+  "rating": "general",
+  "description": "golden hour, the sun 8 degrees high directly behind the mannequin just outside the frame, a bright golden rim of light along the head, shoulders and arm edges, the front in soft warm shade lifted by sky light, long shadow running toward the camera, gentle haze",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L007_diag.webp",
+     "w900": "assets/light/plain/w900/light_L007_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L007_front.webp",
+     "w900": "assets/light/plain/w900/light_L007_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L007_side.webp",
+     "w900": "assets/light/plain/w900/light_L007_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L008",
+  "type": "light",
+  "name": "日落余晖（标准）",
+  "names": {
+   "en": "Sunset Afterglow (Standard)",
+   "ja": "夕焼け（標準）",
+   "ko": "노을 (기본)"
+  },
+  "category": "日出日落",
+  "rating": "general",
+  "description": "just after sunset, no direct sun, the sky behind image-right glowing orange and pink fading to violet above, soft directional warm-pink light from image-right with a cool violet fill from above, very soft shadows",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L008_diag.webp",
+     "w900": "assets/light/plain/w900/light_L008_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L008_front.webp",
+     "w900": "assets/light/plain/w900/light_L008_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L009",
+  "type": "light",
+  "name": "蓝调时刻（标准）",
+  "names": {
+   "en": "Blue Hour (Standard)",
+   "ja": "ブルーアワー（標準）",
+   "ko": "블루아워 (기본)"
+  },
+  "category": "夜间",
+  "rating": "general",
+  "description": "blue hour twenty minutes after sunset, deep blue sky with a faint warm band at the horizon, even soft cool light about 10000 K from the sky, the mannequin in low-contrast blue tones",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L009_diag.webp",
+     "w900": "assets/light/plain/w900/light_L009_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L009_front.webp",
+     "w900": "assets/light/plain/w900/light_L009_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L009_side.webp",
+     "w900": "assets/light/plain/w900/light_L009_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L010",
+  "type": "light",
+  "name": "月光（标准）",
+  "names": {
+   "en": "Moonlight (Standard)",
+   "ja": "月明かり（標準）",
+   "ko": "달빛 (기본)"
+  },
+  "category": "夜间",
+  "rating": "general",
+  "description": "night under a full moon 40 degrees high from image-left, dim cool silver-blue directional light with soft-edged shadows to image-right, dark navy sky with a few stars, the shadow side almost black",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L010_front.webp",
+     "w900": "assets/light/plain/w900/light_L010_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L011",
+  "type": "light",
+  "name": "阴天漫射（标准）",
+  "names": {
+   "en": "Overcast (Standard)",
+   "ja": "曇天の拡散光（標準）",
+   "ko": "흐린 날 (기본)"
+  },
+  "category": "白天",
+  "rating": "general",
+  "description": "a fully overcast white-grey sky, soft even light from above with no direct sun and no distinct shadows, only a faint soft contact shadow under the feet, neutral 6500 K",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L011_diag.webp",
+     "w900": "assets/light/plain/w900/light_L011_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L011_front.webp",
+     "w900": "assets/light/plain/w900/light_L011_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L011_side.webp",
+     "w900": "assets/light/plain/w900/light_L011_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L012",
+  "type": "light",
+  "name": "暴雨前（标准）",
+  "names": {
+   "en": "Before the Storm (Standard)",
+   "ja": "嵐の前（標準）",
+   "ko": "폭풍 전 (기본)"
+  },
+  "category": "白天",
+  "rating": "general",
+  "description": "dark slate-grey storm clouds filling the sky, a single break in the clouds at image-left letting a shaft of pale sunlight fall on the mannequin, bright figure against a dark sky, dry ground",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L012_front.webp",
+     "w900": "assets/light/plain/w900/light_L012_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L013",
+  "type": "light",
+  "name": "北窗柔光（标准）",
+  "names": {
+   "en": "Soft Window Light (Standard)",
+   "ja": "北窓の柔らかい光（標準）",
+   "ko": "북창 부드러운 빛 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "soft indirect daylight from a large window at image-left, no direct sun, the mannequin's right side brightly lit falling off gradually to shadow on its left side, the far wall darker, soft shadow edge",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L013_front.webp",
+     "w900": "assets/light/plain/w900/light_L013_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L014",
+  "type": "light",
+  "name": "窗口直射光斑（标准）",
+  "names": {
+   "en": "Sunbeam Through a Window (Standard)",
+   "ja": "窓からの直射光（標準）",
+   "ko": "창으로 드는 햇살 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "direct afternoon sun through the window at image-left falling as a sharp-edged bright rectangle across the mannequin's torso and onto the floor, the rest of the room in dim warm bounce light, hard contrast",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L014_front.webp",
+     "w900": "assets/light/plain/w900/light_L014_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L015",
+  "type": "light",
+  "name": "百叶窗条纹光（标准）",
+  "names": {
+   "en": "Venetian Blind Stripes (Standard)",
+   "ja": "ブラインドの縞模様（標準）",
+   "ko": "블라인드 줄무늬 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "hard sunlight through half-open venetian blinds at image-left, parallel slanted stripes of light and shadow across the mannequin, the sphere and the back wall, warm 4500 K",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L015_front.webp",
+     "w900": "assets/light/plain/w900/light_L015_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L016",
+  "type": "light",
+  "name": "纱帘柔光（标准）",
+  "names": {
+   "en": "Through Sheer Curtains (Standard)",
+   "ja": "レースカーテン越し（標準）",
+   "ko": "시어 커튼 빛 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "bright daylight glowing through white sheer curtains directly behind the mannequin, the mannequin softly backlit with a light halo on its outline, its front in gentle low-contrast shade, airy high-key mood",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L016_diag.webp",
+     "w900": "assets/light/plain/w900/light_L016_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L016_front.webp",
+     "w900": "assets/light/plain/w900/light_L016_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L016_side.webp",
+     "w900": "assets/light/plain/w900/light_L016_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L017",
+  "type": "light",
+  "name": "天窗顶光（标准）",
+  "names": {
+   "en": "Skylight (Standard)",
+   "ja": "天窓のトップライト（標準）",
+   "ko": "천창 빛 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "soft daylight falling straight down from a skylight above, bright tops of the head and shoulders, the sphere lit on top, a soft round pool of light on the floor around the feet, the room edges dark",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L017_diag.webp",
+     "w900": "assets/light/plain/w900/light_L017_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L017_front.webp",
+     "w900": "assets/light/plain/w900/light_L017_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L017_side.webp",
+     "w900": "assets/light/plain/w900/light_L017_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L018",
+  "type": "light",
+  "name": "暗室门口光（标准）",
+  "names": {
+   "en": "Doorway Chiaroscuro (Standard)",
+   "ja": "暗い部屋の戸口の光（標準）",
+   "ko": "문간 명암 (기본)"
+  },
+  "category": "窗光",
+  "rating": "general",
+  "description": "daylight entering only through an open doorway at image-right, strong side light on the mannequin's left side, the rest of the figure falling into deep shadow, the room around almost black, painterly chiaroscuro",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L018_diag.webp",
+     "w900": "assets/light/plain/w900/light_L018_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L018_front.webp",
+     "w900": "assets/light/plain/w900/light_L018_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L018_side.webp",
+     "w900": "assets/light/plain/w900/light_L018_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L019",
+  "type": "light",
+  "name": "建筑阴影下（标准）",
+  "names": {
+   "en": "Open Shade (Standard)",
+   "ja": "日陰（標準）",
+   "ko": "그늘 (기본)"
+  },
+  "category": "户外空间",
+  "rating": "general",
+  "description": "soft cool light from the open sky above and in front, no direct sun on the mannequin, very soft shadows, the sunlit background behind brighter and warmer than the figure",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L019_diag.webp",
+     "w900": "assets/light/plain/w900/light_L019_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L019_front.webp",
+     "w900": "assets/light/plain/w900/light_L019_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L019_side.webp",
+     "w900": "assets/light/plain/w900/light_L019_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L020",
+  "type": "light",
+  "name": "树荫斑驳光（标准）",
+  "names": {
+   "en": "Dappled Canopy Light (Standard)",
+   "ja": "木漏れ日（標準）",
+   "ko": "나뭇잎 그늘 빛 (기본)"
+  },
+  "category": "户外空间",
+  "rating": "general",
+  "description": "midday sun filtering through the leaves above, scattered round bright dapples of sunlight on the mannequin, the sphere and the ground, the rest in soft green-tinted shade",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L020_diag.webp",
+     "w900": "assets/light/plain/w900/light_L020_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L020_front.webp",
+     "w900": "assets/light/plain/w900/light_L020_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L020_side.webp",
+     "w900": "assets/light/plain/w900/light_L020_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L021",
+  "type": "light",
+  "name": "雪地反光（标准）",
+  "names": {
+   "en": "Snow Bounce (Standard)",
+   "ja": "雪の照り返し（標準）",
+   "ko": "눈 반사광 (기본)"
+  },
+  "category": "户外空间",
+  "rating": "general",
+  "description": "bright winter sun from image-left at 25 degrees with strong light bouncing up from the white snow, the shadow side and the undersides of the arms and chin filled brightly, very bright overall, cool blue shadows on the snow",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L021_front.webp",
+     "w900": "assets/light/plain/w900/light_L021_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L022",
+  "type": "light",
+  "name": "水面反光（标准）",
+  "names": {
+   "en": "Water Reflections (Standard)",
+   "ja": "水面の反射光（標準）",
+   "ko": "수면 반사광 (기본)"
+  },
+  "category": "户外空间",
+  "rating": "general",
+  "description": "sun from behind the mannequin reflecting off rippling water in front, moving bright caustic ripple patterns projected onto the mannequin's front and the sphere, soft overall light",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L022_diag.webp",
+     "w900": "assets/light/plain/w900/light_L022_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L022_front.webp",
+     "w900": "assets/light/plain/w900/light_L022_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L022_side.webp",
+     "w900": "assets/light/plain/w900/light_L022_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L023",
+  "type": "light",
+  "name": "隧道口逆光（标准）",
+  "names": {
+   "en": "Tunnel Mouth Backlight (Standard)",
+   "ja": "トンネル出口の逆光（標準）",
+   "ko": "터널 입구 역광 (기본)"
+  },
+  "category": "户外空间",
+  "rating": "general",
+  "description": "the bright daylit tunnel opening behind the mannequin, the figure nearly silhouetted with a thin bright outline, light reflecting along the tunnel floor toward the camera, front very dark",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L023_diag.webp",
+     "w900": "assets/light/plain/w900/light_L023_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L023_front.webp",
+     "w900": "assets/light/plain/w900/light_L023_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L023_side.webp",
+     "w900": "assets/light/plain/w900/light_L023_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L024",
+  "type": "light",
+  "name": "台灯暖光（标准）",
+  "names": {
+   "en": "Warm Table Lamp (Standard)",
+   "ja": "スタンドの暖色光（標準）",
+   "ko": "따뜻한 스탠드 (기본)"
+  },
+  "category": "室内灯",
+  "rating": "general",
+  "description": "the only light is the warm 2700 K table lamp at image-left at waist height, strong warm fall-off across the mannequin from image-left to near darkness at image-right, the rest of the study dark, soft-edged shadow on the wall to image-right",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L024_front.webp",
+     "w900": "assets/light/plain/w900/light_L024_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L025",
+  "type": "light",
+  "name": "办公室荧光灯（标准）",
+  "names": {
+   "en": "Office Fluorescent (Standard)",
+   "ja": "オフィスの蛍光灯（標準）",
+   "ko": "사무실 형광등 (기본)"
+  },
+  "category": "室内灯",
+  "rating": "general",
+  "description": "flat even greenish-white 4000 K light from overhead panel lights, low contrast, soft shadows under the chin and arms, slightly clinical mood",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L025_diag.webp",
+     "w900": "assets/light/plain/w900/light_L025_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L025_front.webp",
+     "w900": "assets/light/plain/w900/light_L025_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L025_side.webp",
+     "w900": "assets/light/plain/w900/light_L025_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L026",
+  "type": "light",
+  "name": "烛光（标准）",
+  "names": {
+   "en": "Candlelight (Standard)",
+   "ja": "ろうそくの光（標準）",
+   "ko": "촛불 (기본)"
+  },
+  "category": "火光",
+  "rating": "general",
+  "description": "the only light is three candle flames at image-left, very warm 1800 K flickering light, steep fall-off, the mannequin's right side glowing orange and the rest sinking into darkness, black background",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L026_front.webp",
+     "w900": "assets/light/plain/w900/light_L026_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L027",
+  "type": "light",
+  "name": "篝火（标准）",
+  "names": {
+   "en": "Campfire (Standard)",
+   "ja": "焚き火（標準）",
+   "ko": "모닥불 (기본)"
+  },
+  "category": "火光",
+  "rating": "general",
+  "description": "warm orange firelight from a campfire low in front at image-left, lighting the mannequin from below and the front, upward shadows, sparks rising, dark night forest behind",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L027_diag.webp",
+     "w900": "assets/light/plain/w900/light_L027_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L027_front.webp",
+     "w900": "assets/light/plain/w900/light_L027_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L027_side.webp",
+     "w900": "assets/light/plain/w900/light_L027_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L028",
+  "type": "light",
+  "name": "霓虹灯（标准）",
+  "names": {
+   "en": "Neon Glow (Standard)",
+   "ja": "ネオン（標準）",
+   "ko": "네온 (기본)"
+  },
+  "category": "城市夜光",
+  "rating": "general",
+  "description": "magenta neon light on the mannequin's right side from image-left and cyan neon light on its left side from image-right, the two colours meeting at the centre line of the figure, colourful reflections on the wet pavement",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L028_diag.webp",
+     "w900": "assets/light/plain/w900/light_L028_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L028_front.webp",
+     "w900": "assets/light/plain/w900/light_L028_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L029",
+  "type": "light",
+  "name": "路灯（标准）",
+  "names": {
+   "en": "Street Lamp (Standard)",
+   "ja": "街灯（標準）",
+   "ko": "가로등 (기본)"
+  },
+  "category": "城市夜光",
+  "rating": "general",
+  "description": "a single sodium street lamp above and slightly behind, orange-yellow 2000 K top light, a cone of light on the pavement around the feet, the face and front in shadow, dark blue night around",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L029_front.webp",
+     "w900": "assets/light/plain/w900/light_L029_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L029_side.webp",
+     "w900": "assets/light/plain/w900/light_L029_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L030",
+  "type": "light",
+  "name": "屏幕光（标准）",
+  "names": {
+   "en": "Screen Glow (Standard)",
+   "ja": "画面の光（標準）",
+   "ko": "화면 빛 (기본)"
+  },
+  "category": "室内灯",
+  "rating": "general",
+  "description": "cool blue-white light from a screen directly in front at chest height, flat cold light on the front of the mannequin and the sphere, everything behind falling into darkness",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L030_front.webp",
+     "w900": "assets/light/plain/w900/light_L030_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L031",
+  "type": "light",
+  "name": "串灯（标准）",
+  "names": {
+   "en": "String Lights (Standard)",
+   "ja": "ストリングライト（標準）",
+   "ko": "줄조명 (기본)"
+  },
+  "category": "室内灯",
+  "rating": "general",
+  "description": "soft warm low light mainly from the many small bulbs behind and around, gentle rim on the outline, front softly lit by a faint warm fill, round bokeh dots in the background",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L031_diag.webp",
+     "w900": "assets/light/plain/w900/light_L031_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L031_front.webp",
+     "w900": "assets/light/plain/w900/light_L031_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L031_side.webp",
+     "w900": "assets/light/plain/w900/light_L031_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L032",
+  "type": "light",
+  "name": "车灯（标准）",
+  "names": {
+   "en": "Car Headlights (Standard)",
+   "ja": "車のヘッドライト（標準）",
+   "ko": "자동차 헤드라이트 (기본)"
+  },
+  "category": "城市夜光",
+  "rating": "general",
+  "description": "two hard white headlight beams from low in front, bright flat front light on the mannequin, long double shadows cast straight back on the road, dark night beyond",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L032_front.webp",
+     "w900": "assets/light/plain/w900/light_L032_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L033",
+  "type": "light",
+  "name": "舞台追光（标准）",
+  "names": {
+   "en": "Stage Spotlight (Standard)",
+   "ja": "舞台のスポットライト（標準）",
+   "ko": "무대 스포트라이트 (기본)"
+  },
+  "category": "城市夜光",
+  "rating": "general",
+  "description": "a single hard white spotlight from high in front, a sharp-edged round pool of light on the stage around the mannequin, everything outside the pool black, faint haze in the beam",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L033_diag.webp",
+     "w900": "assets/light/plain/w900/light_L033_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L033_front.webp",
+     "w900": "assets/light/plain/w900/light_L033_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L034",
+  "type": "light",
+  "name": "室内外混合光（标准）",
+  "names": {
+   "en": "Mixed Warm & Cool (Standard)",
+   "ja": "屋内外のミックス光（標準）",
+   "ko": "혼합광 (기본)"
+  },
+  "category": "室内灯",
+  "rating": "general",
+  "description": "warm 2700 K lamp light on the mannequin's right side from image-left and cool blue dusk light from the window on its left side from image-right, warm and cool meeting across the figure",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L034_front.webp",
+     "w900": "assets/light/plain/w900/light_L034_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L035",
+  "type": "light",
+  "name": "正面平光（标准）",
+  "names": {
+   "en": "Flat Front (Standard)",
+   "ja": "正面フラットライト（標準）",
+   "ko": "정면 플랫 (기본)"
+  },
+  "category": "主光位",
+  "rating": "general",
+  "description": "one large soft light directly behind the camera at lens height, even shadowless light across the whole face, both cheeks and the nose lit equally, almost no shadow under the nose or chin, the sphere lit almost evenly with the highlight at its centre",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L035_diag.webp",
+     "w900": "assets/light/plain/w900/light_L035_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L035_front.webp",
+     "w900": "assets/light/plain/w900/light_L035_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L035_side.webp",
+     "w900": "assets/light/plain/w900/light_L035_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L036",
+  "type": "light",
+  "name": "蝴蝶光（派拉蒙光）（标准）",
+  "names": {
+   "en": "Butterfly (Paramount) (Standard)",
+   "ja": "バタフライライト（標準）",
+   "ko": "버터플라이 (기본)"
+  },
+  "category": "主光位",
+  "rating": "general",
+  "description": "one hard light directly in front of the cast and 45 degrees above it, a small symmetrical butterfly-shaped shadow straight down under the nose tip, both cheekbones lit equally with soft shadow beneath them, a shadow under the chin on the neck, the sphere's highlight at top centre",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L036_diag.webp",
+     "w900": "assets/light/plain/w900/light_L036_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L036_front.webp",
+     "w900": "assets/light/plain/w900/light_L036_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L036_side.webp",
+     "w900": "assets/light/plain/w900/light_L036_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L037",
+  "type": "light",
+  "name": "环形光（标准）",
+  "names": {
+   "en": "Loop Light (Standard)",
+   "ja": "ループライト（標準）",
+   "ko": "루프 (기본)"
+  },
+  "category": "主光位",
+  "rating": "general",
+  "description": "one soft key light 30 degrees to image-left and 30 degrees above, the nose shadow forming a small loop falling down and toward image-right that does not touch the cheek shadow, the image-right side of the face in gentle shadow, the sphere's highlight upper-left",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L037_diag.webp",
+     "w900": "assets/light/plain/w900/light_L037_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L037_front.webp",
+     "w900": "assets/light/plain/w900/light_L037_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L038",
+  "type": "light",
+  "name": "伦勃朗光（标准）",
+  "names": {
+   "en": "Rembrandt Light (Standard)",
+   "ja": "レンブラントライト（標準）",
+   "ko": "렘브란트 (기본)"
+  },
+  "category": "主光位",
+  "rating": "general",
+  "description": "one key light 45 degrees to image-left and 45 degrees above, no fill, the image-right side of the face in deep shadow except a small lit inverted triangle on the shadow-side cheek under the eye socket, bounded by the nose shadow and the cheek shadow, the sphere half lit with the terminator crossing diagonally",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L038_diag.webp",
+     "w900": "assets/light/plain/w900/light_L038_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L038_front.webp",
+     "w900": "assets/light/plain/w900/light_L038_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L038_side.webp",
+     "w900": "assets/light/plain/w900/light_L038_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L041",
+  "type": "light",
+  "name": "顶光（标准）",
+  "names": {
+   "en": "Top Light (Standard)",
+   "ja": "トップライト（標準）",
+   "ko": "탑 라이트 (기본)"
+  },
+  "category": "主光位",
+  "rating": "general",
+  "description": "one hard light directly overhead, the top of the skull, the brow ridge, nose bridge and shoulders bright, the eye sockets falling into dark pools, a short shadow straight down under the nose and a dark band under the chin, the sphere lit only on top",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L041_diag.webp",
+     "w900": "assets/light/plain/w900/light_L041_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L041_front.webp",
+     "w900": "assets/light/plain/w900/light_L041_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L041_side.webp",
+     "w900": "assets/light/plain/w900/light_L041_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L043",
+  "type": "light",
+  "name": "蚌壳光（标准）",
+  "names": {
+   "en": "Clamshell (Standard)",
+   "ja": "クラムシェル（標準）",
+   "ko": "클램셸 (기본)"
+  },
+  "category": "组合布光",
+  "rating": "general",
+  "description": "a large soft light in front and 40 degrees above plus a soft fill below in front at chest height, very even flattering light on the face, the eye sockets filled in, only a faint shadow under the nose and chin, two catch-like highlights on the sphere (one near the top, one near the bottom)",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L043_diag.webp",
+     "w900": "assets/light/plain/w900/light_L043_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L043_front.webp",
+     "w900": "assets/light/plain/w900/light_L043_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L043_side.webp",
+     "w900": "assets/light/plain/w900/light_L043_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L044",
+  "type": "light",
+  "name": "三点布光（标准）",
+  "names": {
+   "en": "Three-point Lighting (Standard)",
+   "ja": "三点照明（標準）",
+   "ko": "3점 조명 (기본)"
+  },
+  "category": "组合布光",
+  "rating": "general",
+  "description": "a soft key 45 degrees to image-left and 30 degrees above, a weaker fill from image-right at camera height keeping the shadow side readable, and a hard hair light from behind and above tracing the top of the skull and the shoulders, moderate contrast, the sphere showing the key highlight upper-left and a faint rim on top",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L044_diag.webp",
+     "w900": "assets/light/plain/w900/light_L044_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L044_front.webp",
+     "w900": "assets/light/plain/w900/light_L044_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L044_side.webp",
+     "w900": "assets/light/plain/w900/light_L044_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L045",
+  "type": "light",
+  "name": "高调（标准）",
+  "names": {
+   "en": "High-key (Standard)",
+   "ja": "ハイキー（標準）",
+   "ko": "하이키 (기본)"
+  },
+  "category": "影调",
+  "rating": "general",
+  "description": "bright soft light flooding the whole set from the front and both sides, the backdrop pure white, the cast light and airy with only very faint soft shadows beside the nose and under the chin, almost no dark tones",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L045_diag.webp",
+     "w900": "assets/light/plain/w900/light_L045_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L045_front.webp",
+     "w900": "assets/light/plain/w900/light_L045_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L045_side.webp",
+     "w900": "assets/light/plain/w900/light_L045_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L046",
+  "type": "light",
+  "name": "低调（标准）",
+  "names": {
+   "en": "Low-key (Standard)",
+   "ja": "ローキー（標準）",
+   "ko": "로우키 (기본)"
+  },
+  "category": "影调",
+  "rating": "general",
+  "description": "one narrow soft light 60 degrees to image-left and above, lighting only the image-left planes of the forehead, cheekbone, nose and shoulder and the left side of the sphere, everything else falling into black, the backdrop black",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L046_diag.webp",
+     "w900": "assets/light/plain/w900/light_L046_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L046_front.webp",
+     "w900": "assets/light/plain/w900/light_L046_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L046_side.webp",
+     "w900": "assets/light/plain/w900/light_L046_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L047",
+  "type": "light",
+  "name": "剪影（标准）",
+  "names": {
+   "en": "Silhouette (Standard)",
+   "ja": "シルエット（標準）",
+   "ko": "실루엣 (기본)"
+  },
+  "category": "影调",
+  "rating": "general",
+  "description": "the backdrop evenly bright white, no light on the front of the cast or the sphere, both reading as clean solid dark silhouettes with a crisp profile of head, neck and shoulders",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L047_diag.webp",
+     "w900": "assets/light/plain/w900/light_L047_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L047_front.webp",
+     "w900": "assets/light/plain/w900/light_L047_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L047_side.webp",
+     "w900": "assets/light/plain/w900/light_L047_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L048",
+  "type": "light",
+  "name": "青橙双色（标准）",
+  "names": {
+   "en": "Teal & Orange (Standard)",
+   "ja": "ティール&オレンジ（標準）",
+   "ko": "틸 & 오렌지 (기본)"
+  },
+  "category": "色彩",
+  "rating": "general",
+  "description": "an orange-gelled light at 60 degrees to image-left and a teal-gelled light at 60 degrees to image-right, the two colours wrapping the two sides of the mannequin and the sphere and blending to a muted tone at the centre",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L048_front.webp",
+     "w900": "assets/light/plain/w900/light_L048_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L050",
+  "type": "light",
+  "name": "紫蓝渐变（标准）",
+  "names": {
+   "en": "Purple & Blue (Standard)",
+   "ja": "パープル&ブルー（標準）",
+   "ko": "퍼플 & 블루 (기본)"
+  },
+  "category": "色彩",
+  "rating": "general",
+  "description": "a soft violet light from above-left and a soft blue light from low image-right, the backdrop washed with a violet-to-blue gradient",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L050_front.webp",
+     "w900": "assets/light/plain/w900/light_L050_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L051",
+  "type": "light",
+  "name": "丁达尔光束（标准）",
+  "names": {
+   "en": "God Rays in Haze (Standard)",
+   "ja": "光芒（ヤコブの梯子）（標準）",
+   "ko": "빛내림 (기본)"
+  },
+  "category": "投影与体积光",
+  "rating": "general",
+  "description": "visible parallel beams of sunlight slanting down through the haze from a high window at image-left, one beam falling across the mannequin, dust in the beams, the rest dim",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L051_front.webp",
+     "w900": "assets/light/plain/w900/light_L051_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L052",
+  "type": "light",
+  "name": "雾中逆光（标准）",
+  "names": {
+   "en": "Backlit Fog (Standard)",
+   "ja": "霧の逆光（標準）",
+   "ko": "안개 역광 (기본)"
+  },
+  "category": "投影与体积光",
+  "rating": "general",
+  "description": "a single strong light far behind the mannequin glowing through thick fog, the mannequin a soft grey silhouette against a bright glowing haze, light scattering around the outline",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L052_diag.webp",
+     "w900": "assets/light/plain/w900/light_L052_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L052_front.webp",
+     "w900": "assets/light/plain/w900/light_L052_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L053",
+  "type": "light",
+  "name": "窗格投影（标准）",
+  "names": {
+   "en": "Window Gobo (Standard)",
+   "ja": "窓枠の投影（標準）",
+   "ko": "창틀 그림자 (기본)"
+  },
+  "category": "投影与体积光",
+  "rating": "general",
+  "description": "a hard warm light from 45 degrees image-left projecting a sharp shadow of a four-pane window frame across the mannequin, the sphere and the backdrop",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L053_front.webp",
+     "w900": "assets/light/plain/w900/light_L053_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L054",
+  "type": "light",
+  "name": "树叶投影（标准）",
+  "names": {
+   "en": "Leaf Gobo (Standard)",
+   "ja": "木の葉の投影（標準）",
+   "ko": "나뭇잎 그림자 (기본)"
+  },
+  "category": "投影与体积光",
+  "rating": "general",
+  "description": "a hard warm light from 45 degrees image-left through a branch of leaves out of frame, projecting sharp leaf shadows across the mannequin, the sphere and the backdrop",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L054_front.webp",
+     "w900": "assets/light/plain/w900/light_L054_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "L055",
+  "type": "light",
+  "name": "彩色舞厅点光（标准）",
+  "names": {
+   "en": "Disco Light Spots (Standard)",
+   "ja": "ディスコの光の粒（標準）",
+   "ko": "디스코 조명 (기본)"
+  },
+  "category": "色彩",
+  "rating": "general",
+  "description": "many small round spots of coloured light (pink, blue, yellow, green) scattered across the mannequin, the sphere, the floor and the backdrop as if from a mirror ball out of frame, dim ambient light",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L055_diag.webp",
+     "w900": "assets/light/plain/w900/light_L055_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L055_front.webp",
+     "w900": "assets/light/plain/w900/light_L055_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/light/plain/w300/light_L055_side.webp",
+     "w900": "assets/light/plain/w900/light_L055_side.webp"
+    }
+   }
+  }
+ }
+]

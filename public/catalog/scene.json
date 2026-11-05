@@ -1,0 +1,1970 @@
+[
+ {
+  "id": "E001",
+  "type": "scene",
+  "name": "现代客厅（白天）",
+  "names": {
+   "en": "Modern Living Room (Day)",
+   "ja": "モダンなリビング（昼）",
+   "ko": "모던 거실 (낮)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "a modern apartment living room with white walls and light oak floorboards, a low grey three-seat fabric sofa against the far wall under a large plain blank canvas, a round oak coffee table pushed close to the sofa, a tall floor lamp in the far right corner, a large floor-to-ceiling window on the left wall with sheer white curtains, and an empty stretch of bare floor in the middle of the room",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E001_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E001_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E001_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E001_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E001_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E001_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E002",
+  "type": "scene",
+  "name": "现代客厅（夜晚）",
+  "names": {
+   "en": "Modern Living Room (Night)",
+   "ja": "モダンなリビング（夜）",
+   "ko": "모던 거실 (밤)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "a modern apartment living room with white walls and light oak floorboards, a low grey three-seat fabric sofa against the far wall under a large plain blank canvas, a round oak coffee table pushed close to the sofa, a tall floor lamp in the far right corner, a large floor-to-ceiling window on the left wall with sheer white curtains, and an empty stretch of bare floor in the middle of the room",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E002_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E002_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E002_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E002_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E002_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E002_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E003",
+  "type": "scene",
+  "name": "新中式客厅（白天）",
+  "names": {
+   "en": "Neo-Chinese Living Room (Day)",
+   "ja": "新中華風リビング（昼）",
+   "ko": "신중식 거실 (낮)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "a neo-Chinese living room with warm off-white plaster walls and dark walnut floorboards, a long low walnut sofa with straight lines and ivory cushions against the far wall, a wooden lattice screen with a geometric fretwork pattern standing behind the sofa, a round moon-gate-shaped wooden frame on the right wall, a low square walnut tea table by the sofa, paper floor lanterns in both far corners, a tall window with wooden lattice on the left wall, and an empty stretch of bare floor in the middle",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E003_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E003_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E003_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E003_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E003_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E003_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E004",
+  "type": "scene",
+  "name": "卧室（清晨）",
+  "names": {
+   "en": "Bedroom (Morning)",
+   "ja": "寝室（朝）",
+   "ko": "침실 (아침)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "an adult's bedroom with pale greige walls and light wood floor, a double bed with a low upholstered headboard and neatly made white and oat linen against the far wall, a bedside table and small lamp on each side, a wide window with linen curtains on the left wall, a wooden wardrobe on the right wall, and a large empty area of floor at the foot of the bed",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E004_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E004_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E004_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E004_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E004_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E004_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E005",
+  "type": "scene",
+  "name": "和室（白天）",
+  "names": {
+   "en": "Tatami Room (Day)",
+   "ja": "和室（昼）",
+   "ko": "다다미방 (낮)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "a Japanese tatami room with eight tatami mats in the standard layout, white paper shoji sliding screens along the left wall, plain fusuma sliding doors on the right, a tokonoma alcove in the far wall containing only a ceramic vase with one branch and no hanging scroll, natural wood posts and a low wooden ceiling, and the tatami in the centre empty",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E005_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E005_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E005_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E005_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E006",
+  "type": "scene",
+  "name": "开放式厨房（白天）",
+  "names": {
+   "en": "Open Kitchen (Day)",
+   "ja": "オープンキッチン（昼）",
+   "ko": "오픈 키친 (낮)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "an open home kitchen with matte white flat-front cabinets and a pale stone worktop running along the far wall, an island with a matching stone top on the right side, plain white tiles behind the hob, open shelves with plain white crockery, a window above the sink on the far wall, light oak floor, and open floor between the island and the left edge",
+  "variants": {
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E006_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E006_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E007",
+  "type": "scene",
+  "name": "城市阳台（黄昏）",
+  "names": {
+   "en": "City Balcony (Dusk)",
+   "ja": "都会のバルコニー（夕暮れ）",
+   "ko": "도시 발코니 (황혼)"
+  },
+  "category": "居家",
+  "rating": "general",
+  "description": "a city apartment balcony with grey stone tile floor and a glass balustrade with a slim metal top rail across the far side, potted green plants in plain terracotta pots along the left and right edges, a small round metal bistro table and two chairs at the right edge, and a soft-focus city of generic mid-rise buildings beyond the glass with no recognisable skyline",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E007_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E007_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E007_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E007_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E007_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E007_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E008",
+  "type": "scene",
+  "name": "咖啡馆（清晨）",
+  "names": {
+   "en": "Café (Morning)",
+   "ja": "カフェ（朝）",
+   "ko": "카페 (아침)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a small independent café with white-painted brick walls and a pale terrazzo floor, a light oak service counter with a plain steel espresso machine running along the right wall, open shelves behind it holding plain white cups and unlabelled glass jars, three small round marble tables with bentwood chairs along the left wall under a wide street window, a blank black menu board with nothing written on it on the far wall, hanging plants in the far corners, and an empty patch of terrazzo floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E008_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E008_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E008_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E008_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E010",
+  "type": "scene",
+  "name": "开放式办公室（白天）",
+  "names": {
+   "en": "Open-plan Office (Day)",
+   "ja": "オープンオフィス（昼）",
+   "ko": "오픈 오피스 (낮)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "an open-plan office floor with a polished concrete floor, white walls and exposed ceiling ducts painted white, rows of light oak desks with plain black monitors switched off and black task chairs along the left and right sides, a full-height window wall on the far side looking onto generic mid-rise buildings with no recognisable skyline, tall potted plants at the ends of the desk rows, and an empty strip of concrete walkway down the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E010_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E010_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E010_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E010_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E011",
+  "type": "scene",
+  "name": "图书馆阅览室（白天）",
+  "names": {
+   "en": "Library Reading Room (Day)",
+   "ja": "図書館の閲覧室（昼）",
+   "ko": "도서관 열람실 (낮)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a public library reading room with a high white ceiling and tall arched windows on the left wall, dark wooden floor-to-ceiling bookshelves with plain unlettered book spines lining the far and right walls, two long wooden reading tables with green-shaded brass lamps and empty chairs placed along the left wall under the windows, and an empty stretch of wooden floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E011_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E011_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E011_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E011_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E011_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E011_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E012",
+  "type": "scene",
+  "name": "白盒画廊（白天）",
+  "names": {
+   "en": "White-cube Gallery (Day)",
+   "ja": "ホワイトキューブの画廊（昼）",
+   "ko": "화이트큐브 갤러리 (낮)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a white-cube contemporary art gallery with smooth white walls, a seamless pale grey polished concrete floor and a white ceiling with track spotlights, three large plain colour-field canvases in muted blue, ochre and grey hung far apart on the far wall, one tall plain canvas on the right wall, a low white bench against the left wall, and an empty expanse of concrete floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E012_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E012_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E012_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E012_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E012_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E012_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E013",
+  "type": "scene",
+  "name": "健身房（白天）",
+  "names": {
+   "en": "Gym Floor (Day)",
+   "ja": "ジム（昼）",
+   "ko": "헬스장 (낮)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a modern gym floor with black rubber flooring and dark grey walls, a row of treadmills with dark switched-off screens facing a window wall on the left, a long rack of black dumbbells and a weight bench along the right wall, a squat rack in the far right corner, plain black plates with no numbers, an exposed black ceiling with linear lights, and an empty patch of rubber floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E013_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E013_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E013_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E013_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E014",
+  "type": "scene",
+  "name": "舞蹈室（白天）",
+  "names": {
+   "en": "Dance Studio (Day)",
+   "ja": "ダンススタジオ（昼）",
+   "ko": "댄스 연습실 (낮)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a dance studio with a pale maple sprung wooden floor and white walls, a floor-to-ceiling mirror wall covering the far wall that reflects only the empty studio and the opposite white wall, a wooden ballet barre fixed along the left wall, a row of tall windows on the right wall, a small black speaker on a shelf in the far right corner, and an empty expanse of wooden floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E014_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E014_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E014_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E014_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E014_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E014_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E015",
+  "type": "scene",
+  "name": "酒店大堂（夜晚）",
+  "names": {
+   "en": "Hotel Lobby (Night)",
+   "ja": "ホテルのロビー（夜）",
+   "ko": "호텔 로비 (밤)"
+  },
+  "category": "公共空间",
+  "rating": "general",
+  "description": "a hotel lobby with a double-height ceiling, cream marble floor and walnut-panelled walls, a long reception desk of walnut and brass along the right wall with a blank panel behind it, a low lounge area of two sofas and armchairs around a coffee table against the left wall, a large plain brass ring chandelier overhead, tall potted palms in the far corners, a pair of glass entrance doors in the far wall, and an empty expanse of marble floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E015_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E015_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E015_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E015_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E015_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E015_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E017",
+  "type": "scene",
+  "name": "十字路口斑马线（白天）",
+  "names": {
+   "en": "Crosswalk (Day)",
+   "ja": "交差点の横断歩道（昼）",
+   "ko": "횡단보도 (낮)"
+  },
+  "category": "街道",
+  "rating": "general",
+  "description": "a wide city street seen from the middle of a zebra crossing, the road completely empty of cars, bicycles and people, white crossing stripes running away from the camera to the far pavement, generic six-storey office and apartment buildings with plain facades lining the left and right sides, traffic lights on plain grey poles at the far corners, plain street trees along both pavements, a vanishing view of more generic buildings with no recognisable skyline, and an empty patch of crossing stripes in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E017_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E017_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E017_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E017_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E017_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E017_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E018",
+  "type": "scene",
+  "name": "十字路口斑马线（雨夜）",
+  "names": {
+   "en": "Crosswalk (Rainy Night)",
+   "ja": "交差点の横断歩道（雨の夜）",
+   "ko": "횡단보도 (비 오는 밤)"
+  },
+  "category": "街道",
+  "rating": "general",
+  "description": "a wide city street seen from the middle of a zebra crossing, the road completely empty of cars, bicycles and people, white crossing stripes running away from the camera to the far pavement, generic six-storey office and apartment buildings with plain facades lining the left and right sides, traffic lights on plain grey poles at the far corners, plain street trees along both pavements, a vanishing view of more generic buildings with no recognisable skyline, and an empty patch of crossing stripes in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E018_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E018_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E018_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E018_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E019",
+  "type": "scene",
+  "name": "后巷（夜晚）",
+  "names": {
+   "en": "Back Alley (Night)",
+   "ja": "裏路地（夜）",
+   "ko": "뒷골목 (밤)"
+  },
+  "category": "街道",
+  "rating": "general",
+  "description": "a narrow city back alley between two five-storey brick buildings, rusty fire escapes and air-conditioning units on the left wall, plain grey metal back doors and closed lidded bins along the right wall, black pipes running up the walls, cables strung overhead between the buildings, a damp cobbled and asphalt ground, a brighter street visible at the far end, and an empty stretch of alley ground in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E019_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E019_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E019_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E019_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E019_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E019_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E020",
+  "type": "scene",
+  "name": "霓虹夜街（夜晚）",
+  "names": {
+   "en": "Neon Night Street (Night)",
+   "ja": "ネオンの夜の街（夜）",
+   "ko": "네온 밤거리 (밤)"
+  },
+  "category": "街道",
+  "rating": "general",
+  "description": "a narrow pedestrian shopping street at night lined on the left and right with small two- and three-storey shops whose shutters are half down, each shopfront crowned by a blank signboard and a plain neon tube shape in a single colour — circles, bars and arcs in pink, cyan and amber — with no letters, characters or symbols, paper-free shop windows showing only soft light, strings of bare bulbs crossing overhead, wet stone paving running to the far end, and an empty patch of paving in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E020_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E020_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E020_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E020_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E021",
+  "type": "scene",
+  "name": "港式街道（夜晚）",
+  "names": {
+   "en": "Hong Kong-style Street (Night)",
+   "ja": "香港風の街並み（夜）",
+   "ko": "홍콩풍 거리 (밤)"
+  },
+  "category": "街道",
+  "rating": "general",
+  "description": "a dense Hong Kong-style street of narrow twelve-storey tenement blocks with balconies, window grilles and air-conditioning units packed along the left and right sides, many blank rectangular signboards in plain colours jutting out over the street on metal brackets with no characters or letters on them, ground-floor shops with rolled-down shutters, a plain asphalt road with no vehicles, no people and no tram tracks running to the far end, and an empty patch of road in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E021_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E021_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E021_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E021_below.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E022",
+  "type": "scene",
+  "name": "上海弄堂（白天）",
+  "names": {
+   "en": "Shanghai Lilong Lane (Day)",
+   "ja": "上海の路地（里弄）（昼）",
+   "ko": "상하이 골목 (낮)"
+  },
+  "category": "老街巷",
+  "rating": "general",
+  "description": "a Shanghai-style shikumen lilong lane, two-storey grey brick terraced houses with red brick bands lining the left and right sides, black-lacquered wooden doors in carved stone door frames with no inscriptions, bamboo laundry poles with a few plain cloths hanging high up from upper windows, potted plants beside the doorsteps, a stone-paved lane running to an arched passage at the far end, and an empty patch of paving in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E022_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E022_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E022_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E022_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E022_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E022_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E023",
+  "type": "scene",
+  "name": "坡道台阶街（白天）",
+  "names": {
+   "en": "Stepped Hillside Street (Day)",
+   "ja": "階段のある坂道（昼）",
+   "ko": "계단 골목 (낮)"
+  },
+  "category": "老街巷",
+  "rating": "general",
+  "description": "a steep residential stepped street climbing away from the camera between small plastered houses painted in faded cream, ochre and pale blue, potted plants and a few bicycles leaning on the walls along the left and right sides, a plain iron handrail running up the left side, rooftops and a strip of sky above the top of the steps, and an empty flat landing of paving stones in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E023_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E023_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E023_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E023_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E023_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E023_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E024",
+  "type": "scene",
+  "name": "城市公园小径（清晨）",
+  "names": {
+   "en": "City Park Path (Morning)",
+   "ja": "公園の小道（朝）",
+   "ko": "공원 산책로 (아침)"
+  },
+  "category": "公园、广场与屋顶",
+  "rating": "general",
+  "description": "a paved path through a city park curving gently away from the camera, mature broadleaf trees and neat lawns on the left and right, plain wooden slatted benches on black iron legs along the left edge, a black iron lamp post on the right, a low hedge in the middle distance, glimpses of generic mid-rise buildings above the trees with no recognisable skyline, and an empty patch of path in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E024_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E024_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E024_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E024_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E025",
+  "type": "scene",
+  "name": "屋顶露台（黄昏）",
+  "names": {
+   "en": "Rooftop Terrace (Dusk)",
+   "ja": "屋上テラス（夕暮れ）",
+   "ko": "옥상 테라스 (황혼)"
+  },
+  "category": "公园、广场与屋顶",
+  "rating": "general",
+  "description": "a city rooftop terrace with grey hardwood decking, a waist-high glass balustrade across the far edge, large planters with ornamental grasses along the left and right edges, two low outdoor sofas and a coffee table against the right edge, festoon bulbs strung on posts above the edges, a soft-focus city of generic towers beyond the glass with no recognisable skyline, and an empty patch of decking in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E025_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E025_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E025_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E025_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E026",
+  "type": "scene",
+  "name": "室外篮球场（白天）",
+  "names": {
+   "en": "Outdoor Basketball Court (Day)",
+   "ja": "屋外バスケットコート（昼）",
+   "ko": "야외 농구장 (낮)"
+  },
+  "category": "公园、广场与屋顶",
+  "rating": "general",
+  "description": "an outdoor public basketball court with a green and red acrylic surface and white painted lines, a basketball hoop with a plain white backboard and no markings at the far end, a tall chain-link fence around the left and right sides, floodlight poles at the corners, generic mid-rise apartment blocks beyond the fence with no recognisable skyline, and an empty patch of court surface in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E026_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E026_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E026_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E026_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E027",
+  "type": "scene",
+  "name": "滨江步道（黄昏）",
+  "names": {
+   "en": "Riverside Promenade (Dusk)",
+   "ja": "川沿いの遊歩道（夕暮れ）",
+   "ko": "강변 산책로 (황혼)"
+  },
+  "category": "滨水",
+  "rating": "general",
+  "description": "a wide riverside promenade of pale stone paving, a black iron railing along the right edge with a calm wide river beyond, a row of tall street lamps and young trees along the left edge, low stone benches between the trees, the far bank showing a low line of generic mid-rise buildings with no recognisable skyline, the promenade running straight into the distance, and an empty patch of paving in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E027_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E027_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E027_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E027_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E028",
+  "type": "scene",
+  "name": "公交候车亭（雨夜）",
+  "names": {
+   "en": "Bus Stop Shelter (Rainy Night)",
+   "ja": "バス停の待合所（雨の夜）",
+   "ko": "버스 정류장 (비 오는 밤)"
+  },
+  "category": "交通设施",
+  "rating": "general",
+  "description": "a city pavement beside a modern glass bus shelter standing along the left edge, a slim steel frame and a plain glass roof, a narrow bench inside, a blank lit panel on the shelter's end with no advert, timetable or lettering, a kerb and an empty road on the right, generic apartment buildings across the road, and an empty patch of pavement in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E028_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E028_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E028_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E028_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E028_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E028_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E029",
+  "type": "scene",
+  "name": "林间小路（夏日）",
+  "names": {
+   "en": "Forest Path (Summer Day)",
+   "ja": "森の小道（夏の昼）",
+   "ko": "숲길 (여름 낮)"
+  },
+  "category": "森林与花木",
+  "rating": "general",
+  "description": "a temperate mixed forest of tall beech and oak trees, a packed-earth footpath about two metres wide running straight from the camera into the far distance, thick trunks and green undergrowth of ferns along the left and right edges, the canopy closing overhead with gaps of sky, the path fading into green depth far ahead, and a clear walkable stretch of bare earth path in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E029_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E029_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E029_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E029_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E029_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E029_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E030",
+  "type": "scene",
+  "name": "竹林（白天）",
+  "names": {
+   "en": "Bamboo Grove (Day)",
+   "ja": "竹林（昼）",
+   "ko": "대나무 숲 (낮)"
+  },
+  "category": "森林与花木",
+  "rating": "general",
+  "description": "a dense grove of tall green moso bamboo, straight culms rising close together along the left and right sides of a narrow earth path covered with dry bamboo leaves, the path leading straight ahead and curving slightly right in the far distance, the bamboo tops meeting high overhead with slivers of sky, no lanterns or fences, and a clear walkable patch of leaf-covered path in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E030_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E030_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E030_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E030_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E030_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E030_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E031",
+  "type": "scene",
+  "name": "樱花林（春日）",
+  "names": {
+   "en": "Cherry Blossom Grove (Spring Day)",
+   "ja": "桜並木（春の昼）",
+   "ko": "벚꽃 숲 (봄 낮)"
+  },
+  "category": "森林与花木",
+  "rating": "general",
+  "description": "a grove of old cherry trees in full pale pink bloom on a gentle grassy slope, the trees standing in loose rows on the left and right with their branches arching over a wide gravel path, fallen petals scattered on the path and the grass, more blossoming trees fading into the far distance, no lanterns, no tents, no buildings, and a clear walkable patch of petal-strewn gravel path in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E031_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E031_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E031_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E031_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E031_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E031_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E032",
+  "type": "scene",
+  "name": "山脊（云海日出）",
+  "names": {
+   "en": "Mountain Ridge (Sunrise over Clouds)",
+   "ja": "山の尾根（雲海の朝日）",
+   "ko": "산 능선 (운해 일출)"
+  },
+  "category": "山地与雪原",
+  "rating": "general",
+  "description": "a broad grassy and rocky mountain summit ridge above the tree line, the ridge running straight away from the camera and dropping steeply on the left and right, a range of rugged unnamed peaks stretching across the far distance below the horizon, scattered grey rocks and low alpine grass on the ridge, no cairns, no signposts, no huts, and a clear walkable patch of flat ground on the ridge crest in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E032_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E032_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E032_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E032_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E033",
+  "type": "scene",
+  "name": "雪原（晴天）",
+  "names": {
+   "en": "Snowfield (Sunny)",
+   "ja": "雪原（晴れ）",
+   "ko": "설원 (맑음)"
+  },
+  "category": "山地与雪原",
+  "rating": "general",
+  "description": "a wide open snowfield of smooth untouched snow, a few snow-laden spruce trees at the left edge, a low snow-covered rocky rise at the right edge, the snow plain stretching to a line of snowy mountains in the far distance, the snow surface showing gentle wind ripples but no footprints, no ski tracks, no poles, and a clear walkable patch of smooth firm snow in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E033_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E033_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E033_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E033_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E033_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E033_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E034",
+  "type": "scene",
+  "name": "梯田（夏季青苗）",
+  "names": {
+   "en": "Rice Terraces (Summer Green)",
+   "ja": "棚田（夏の青田）",
+   "ko": "계단식 논 (여름 초록)"
+  },
+  "category": "田野与花海",
+  "rating": "general",
+  "description": "hillside rice terraces with curving stepped paddies of young bright green rice descending away from the camera and wrapping around the slope, a grassy earth bund about a metre wide running straight ahead along the top terrace, steeper terraced slopes rising on the left, the terraces falling away into a valley on the right, forested hills in the far distance, no huts, no farmers, no power lines, and a clear walkable patch of the grassy bund in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E034_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E034_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E034_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E034_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E035",
+  "type": "scene",
+  "name": "向日葵花田（盛夏）",
+  "names": {
+   "en": "Sunflower Field (Midsummer)",
+   "ja": "ひまわり畑（真夏）",
+   "ko": "해바라기 밭 (한여름)"
+  },
+  "category": "田野与花海",
+  "rating": "general",
+  "description": "a large field of tall sunflowers in full bloom, the flower heads all facing the camera, dense rows of sunflowers about 1.5 metres tall filling the left and right sides and stretching to the horizon, a mown grass path about three metres wide cut straight through the field away from the camera, a line of trees on the far horizon, no buildings, no signs, and a clear walkable patch of mown grass path in the centre about 4 metres from the camera with no sunflowers standing in it",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E035_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E035_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E035_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E035_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E035_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E035_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E036",
+  "type": "scene",
+  "name": "沙丘（日落）",
+  "names": {
+   "en": "Desert Dunes (Sunset)",
+   "ja": "砂丘（夕日）",
+   "ko": "사막 사구 (일몰)"
+  },
+  "category": "沙漠与岩地",
+  "rating": "general",
+  "description": "a sea of smooth orange sand dunes, a tall dune with a sharp curving crest rising on the left, lower rolling dunes on the right, rows of dunes receding to the horizon far ahead, fine wind ripples on the sand and no footprints, no vegetation, no camels, no vehicles, and a clear walkable patch of flat rippled sand in a shallow hollow in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E036_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E036_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E036_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E036_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E036_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E036_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E037",
+  "type": "scene",
+  "name": "瀑布潭边（白天）",
+  "names": {
+   "en": "Waterfall Pool (Day)",
+   "ja": "滝つぼのほとり（昼）",
+   "ko": "폭포 소 (낮)"
+  },
+  "category": "海岸与水边",
+  "rating": "general",
+  "description": "a waterfall about 12 metres high pouring down a mossy dark rock cliff in the far centre into a clear green pool, the pool filling the middle distance, wet ferns and moss on rock walls along the left and right, a broad flat bank of dry grey slate in the foreground at the near edge of the pool, nothing built and no railings, and a clear walkable patch of flat dry slate in the centre about 4 metres from the camera, well back from the water",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E037_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E037_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E037_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E037_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E037_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E037_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E038",
+  "type": "scene",
+  "name": "高山湖码头（清晨）",
+  "names": {
+   "en": "Mountain Lake Dock (Early Morning)",
+   "ja": "山上湖の桟橋（早朝）",
+   "ko": "산정호수 선착장 (이른 아침)"
+  },
+  "category": "海岸与水边",
+  "rating": "general",
+  "description": "a short wooden dock of weathered grey planks running straight out from a pebble shore into a calm glacial lake of milky turquoise water, the dock ending about 10 metres ahead, a single plain red wooden canoe with no markings resting on the water tied at the left side of the dock, dense dark green fir forest along the left and right shores, steep grey rock mountains with snow in their gullies rising behind the lake across the far side and reflected in the still water, no buildings, no signs, and a clear walkable stretch of dock planks in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E038_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E038_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E038_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E038_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E038_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E038_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E039",
+  "type": "scene",
+  "name": "崖顶海景（晴天）",
+  "names": {
+   "en": "Cliff-Top Sea View (Sunny Day)",
+   "ja": "断崖の海の見晴らし（晴れ）",
+   "ko": "절벽 위 바다 전망 (맑은 날)"
+  },
+  "category": "海岸与海岛",
+  "rating": "general",
+  "description": "the flat grassy top of a high pale limestone sea cliff on a tropical coast, short green grass and a few low wind-bent shrubs on the headland, the cliff edge running straight across the view about 12 metres ahead with a low weathered wooden post-and-rail fence along it, beyond the edge a vast turquoise and deep blue sea far below and the straight horizon, a second rugged limestone headland with sheer white cliff faces and green tops rising from the sea at the right, a pandanus tree leaning at the left edge, no buildings, no boats, and a clear walkable patch of short grass in the centre about 4 metres from the camera, well back from the fence and the edge",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E039_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E039_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E039_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E039_below.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E040",
+  "type": "scene",
+  "name": "崖顶海景（日落）",
+  "names": {
+   "en": "Cliff-Top Sea View (Sunset)",
+   "ja": "断崖の海の見晴らし（夕日）",
+   "ko": "절벽 위 바다 전망 (일몰)"
+  },
+  "category": "海岸与海岛",
+  "rating": "general",
+  "description": "the flat grassy top of a high pale limestone sea cliff on a tropical coast, short green grass and a few low wind-bent shrubs on the headland, the cliff edge running straight across the view about 12 metres ahead with a low weathered wooden post-and-rail fence along it, beyond the edge a vast turquoise and deep blue sea far below and the straight horizon, a second rugged limestone headland with sheer white cliff faces and green tops rising from the sea at the right, a pandanus tree leaning at the left edge, no buildings, no boats, and a clear walkable patch of short grass in the centre about 4 metres from the camera, well back from the fence and the edge",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E040_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E040_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E040_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E040_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E040_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E040_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E041",
+  "type": "scene",
+  "name": "椰林白沙滩（黄金时刻）",
+  "names": {
+   "en": "Palm Beach (Golden Hour)",
+   "ja": "ヤシの白砂ビーチ（ゴールデンアワー）",
+   "ko": "야자수 백사장 (골든아워)"
+  },
+  "category": "海岸与海岛",
+  "rating": "general",
+  "description": "a tropical beach of fine white sand, clear turquoise shallow water lapping gently about 10 metres ahead and turning deep blue toward the straight horizon, three tall coconut palms leaning out over the sand from the left edge with their fronds overhead, dense green tropical foliage along the right edge, a small low green island on the horizon at the far left, no umbrellas, no loungers, no boats, no huts, and a clear walkable patch of smooth dry white sand in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E041_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E041_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E041_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E041_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E041_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E041_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E042",
+  "type": "scene",
+  "name": "水上木栈道（日落）",
+  "names": {
+   "en": "Overwater Boardwalk (Sunset)",
+   "ja": "水上の桟橋デッキ（夕日）",
+   "ko": "수상 데크 (일몰)"
+  },
+  "category": "海岸与海岛",
+  "rating": "general",
+  "description": "a wide boardwalk of weathered pale teak planks raised on wooden piles over a clear turquoise lagoon, the boardwalk running straight ahead from the camera and ending at a square deck about 25 metres away, simple wooden handrails along both sides, two thatched-roof overwater bungalows on stilts standing in the lagoon at the left and one at the right in the middle distance, each joined by its own short walkway, the lagoon shading from pale turquoise to deep blue at the straight horizon, a low green island ridge at the far right, no boats, no people, no signs, and a clear walkable stretch of boardwalk planks in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E042_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E042_above.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E044",
+  "type": "scene",
+  "name": "丛林秋千平台（晨雾）",
+  "names": {
+   "en": "Jungle Swing Deck (Morning Mist)",
+   "ja": "ジャングルのブランコ台（朝霧）",
+   "ko": "정글 그네 데크 (아침 안개)"
+  },
+  "category": "度假酒店",
+  "rating": "general",
+  "description": "a wooden viewing deck at the edge of a deep jungle valley: a deck of dark weathered planks in the foreground ending in a sturdy wooden railing about 7 metres ahead, beyond it a steep river valley filled with dense green jungle and coconut palms, misty forested ridges layered into the distance, a tall frame of two thick timber posts at the far left edge of the deck with a rope swing hanging still beside the railing, a thatched shade roof at the right edge, no people, no signs, and a clear walkable patch of deck planks in the centre about 4 metres from the camera, the swing well to the left and nothing hanging in the centre",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E044_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E044_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E044_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E044_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E044_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E044_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E045",
+  "type": "scene",
+  "name": "白墙蓝窗小巷（白天）",
+  "names": {
+   "en": "Whitewashed Island Lane (Day)",
+   "ja": "白壁と青い窓の路地（昼）",
+   "ko": "하얀 벽 파란 창 골목 (낮)"
+  },
+  "category": "旅行小镇",
+  "rating": "general",
+  "description": "a narrow stepped lane in an original whitewashed island village: smooth white-painted walls of cubic houses with rounded edges on the left and right, doors and window shutters painted deep blue, a cascade of magenta bougainvillea spilling over a wall on the left, a few terracotta pots with green plants along the steps, the lane paved in grey stone with white-painted joints rising gently in shallow steps away from the camera and opening at the far end to a glimpse of deep blue sea and sky, flat roofs only, no domes, no bell towers, no churches, no signs, and a clear walkable landing of paving in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E045_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E045_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E045_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E045_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E045_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E045_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E047",
+  "type": "scene",
+  "name": "柏树小路（黄金时刻）",
+  "names": {
+   "en": "Cypress Road (Golden Hour)",
+   "ja": "糸杉の小道（ゴールデンアワー）",
+   "ko": "사이프러스 길 (골든아워)"
+  },
+  "category": "田野与花海",
+  "rating": "general",
+  "description": "a pale gravel country road winding gently away from the camera between two rows of tall slender dark cypress trees, rolling green and golden hills of farmland stretching to the left and right, a lone original stone farmhouse with a terracotta roof on a low hilltop at the far end where the road leads, a low dry-stone wall along the right edge of the road, no cars, no signs, no power lines, and a clear walkable stretch of gravel road in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E047_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E047_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E047_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E047_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E047_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E047_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E048",
+  "type": "scene",
+  "name": "四合院（白天）",
+  "names": {
+   "en": "Siheyuan Courtyard (Day)",
+   "ja": "四合院（昼）",
+   "ko": "사합원 (낮)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "the inner courtyard of an original Qing-dynasty Beijing-style siheyuan, seen from just inside the chuihua gate: grey brick paving laid in a square pattern, the single-storey main hall across the far side raised on a low stone plinth with three red-lacquered timber bays, carved wooden lattice doors and windows backed with white paper, grey tile gable roof with curved ridge ends and a covered veranda with red columns, matching side wing halls on the left and right with their own lattice doors and verandas, a covered corridor joining the corners, a crabapple tree in a square bed at the left edge and a large glazed water vat at the right edge, and an empty patch of brick paving in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E048_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E048_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E048_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E048_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E048_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E048_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E049",
+  "type": "scene",
+  "name": "江南水乡（白天）",
+  "names": {
+   "en": "Jiangnan Water Town (Day)",
+   "ja": "江南の水郷（昼）",
+   "ko": "강남 수향 (낮)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "a lane in an original Ming–Qing Jiangnan water town: a narrow canal of still green water running along the left edge with a stone embankment and granite mooring posts, two-storey whitewashed houses with black timber window frames and dark grey tile roofs lining the far side of the canal, stepped horse-head gable walls rising between them, a humpbacked single-arch stone bridge crossing the canal in the far distance, a wooden-shuttered shopfront with a blank wooden signboard and two unlit red paper lanterns on the right, granite flagstone paving along the lane, a small wooden boat moored empty against the left bank, and an empty stretch of flagstones in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E049_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E049_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E049_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E049_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E049_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E049_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E050",
+  "type": "scene",
+  "name": "园林回廊（白天）",
+  "names": {
+   "en": "Garden Corridor (Day)",
+   "ja": "庭園の回廊（昼）",
+   "ko": "정원 회랑 (낮)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "an original classical Suzhou-style private garden seen from a covered walkway: a covered corridor with dark red timber columns, a grey tile roof and low built-in wooden bench railings running along the right edge, a whitewashed garden wall on the right pierced by ornamental leak windows with grey tile lattice, a pond with taihu rocks and lotus leaves along the left edge, a small hexagonal pavilion with upturned eaves standing on rocks across the pond at the far side, bamboo and a pine behind it, a grey brick-paved terrace where the corridor opens out, and an empty patch of paving in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E050_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E050_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E050_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E050_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E050_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E050_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E051",
+  "type": "scene",
+  "name": "江户街道（清晨）",
+  "names": {
+   "en": "Edo Street (Morning)",
+   "ja": "江戸の町並み（朝）",
+   "ko": "에도 거리 (아침)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "a street in an original Edo-period Japanese town: packed earth road with a shallow stone gutter on each side, two-storey wooden machiya townhouses with dark lattice fronts, low second floors with mushiko plastered windows, black-tiled roofs and deep eaves lining the left and right, plain indigo noren curtains with no crest and no lettering hanging over the shop entrances, a wooden fire-water barrel stack at the right edge, a wooden kido gate frame closing the far end of the street with tiled roofs beyond, and an empty patch of earth road in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E051_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E051_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E051_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E051_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E051_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E051_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E052",
+  "type": "scene",
+  "name": "宋代茶肆（白天）",
+  "names": {
+   "en": "Song Teahouse (Day)",
+   "ja": "宋代の茶館（昼）",
+   "ko": "송대 찻집 (낮)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "the interior of an original Song-dynasty teahouse: plain unpainted timber posts and beams, whitewashed walls, a wide window opening on the left wall with rolled-up bamboo blinds looking onto a green willow outside, a long wooden serving counter across the far wall with a charcoal brazier, black-glazed tea bowls and a stack of lacquered trays, square wooden tables with long benches placed along the left and right walls, a plain undecorated paper folding screen in the far right corner, stone-paved floor, and an empty patch of floor in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E052_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E052_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E052_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E052_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E052_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E052_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E053",
+  "type": "scene",
+  "name": "明式书斋（白天）",
+  "names": {
+   "en": "Ming Scholar's Study (Day)",
+   "ja": "明代の書斎（昼）",
+   "ko": "명대 서재 (낮)"
+  },
+  "category": "东方古典",
+  "rating": "general",
+  "description": "an original Ming-dynasty scholar's study: a large plain huanghuali painting table with a brush pot, an inkstone and a few rolled scrolls standing against the far wall, a low-backed official's armchair behind it, an open bookcase of plain huali wood on the right wall stacked with thread-bound books in blue cloth cases with no visible titles, a round moon window with wooden lattice on the left wall looking onto bamboo, a blank plain silk scroll hanging on the far wall, a pair of tall wooden candle stands in the far corners, polished grey square floor tiles, and an empty patch of floor in the centre about four metres from the camera",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E053_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E053_below.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E054",
+  "type": "scene",
+  "name": "中世纪村街（白天）",
+  "names": {
+   "en": "Medieval Village Street (Day)",
+   "ja": "中世の村の通り（昼）",
+   "ko": "중세 마을 거리 (낮)"
+  },
+  "category": "西方古典与近代",
+  "rating": "general",
+  "description": "a street in an original 14th-century Northern European village: an uneven cobbled street curving gently away, two-storey half-timbered houses with dark oak framing, cream wattle-and-daub infill, jettied upper floors and steep thatched or clay-tile roofs lining the left and right, small leaded windows with diamond panes, a timber well with a wooden roof at the left edge, stacked firewood and a wooden cart at the right edge, wooded hills beyond the far end of the street with no church spire or tower, and an empty patch of cobbles in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E054_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E054_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E054_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E054_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E054_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E054_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E055",
+  "type": "scene",
+  "name": "巴洛克舞厅（夜晚）",
+  "names": {
+   "en": "Baroque Ballroom (Night)",
+   "ja": "バロックの舞踏室（夜）",
+   "ko": "바로크 무도회장 (밤)"
+  },
+  "category": "西方古典与近代",
+  "rating": "general",
+  "description": "an original late-17th-century Baroque ballroom in a private palace: white and gold carved wall panelling with gilded scrolls, tall arched windows down the left wall with heavy crimson silk drapes, a row of tall mirrors in gilded frames between gilded pilasters on the right wall reflecting only the windows opposite, a painted ceiling of sky and clouds with no figures, three crystal chandeliers holding wax candles, a musicians' balcony with a gilded balustrade across the far wall, inlaid parquet floor in a geometric star pattern, and an empty expanse of parquet in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E055_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E055_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E055_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E055_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E055_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E055_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E056",
+  "type": "scene",
+  "name": "装饰艺术酒店大堂（夜晚）",
+  "names": {
+   "en": "Art Deco Hotel Lobby (Night)",
+   "ja": "アールデコのホテルロビー（夜）",
+   "ko": "아르데코 호텔 로비 (밤)"
+  },
+  "category": "西方古典与近代",
+  "rating": "general",
+  "description": "an original 1920s Art Deco grand hotel lobby: cream and black marble walls with stepped geometric bronze inlays, a curved reception desk of black lacquer and brass with no lettering against the far wall, a pair of bronze-framed lift doors with sunburst patterns behind it, fluted marble columns on the left and right, low curved velvet armchairs in emerald green at the left and right edges, fan-shaped frosted-glass wall sconces, a stepped coffered ceiling, a polished black and white marble floor in a geometric chevron pattern, and an empty patch of floor in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E056_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E056_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E056_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E056_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E056_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E056_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E057",
+  "type": "scene",
+  "name": "赛博朋克小巷（雨夜）",
+  "names": {
+   "en": "Cyberpunk Alley (Rainy Night)",
+   "ja": "サイバーパンクの路地（雨の夜）",
+   "ko": "사이버펑크 골목 (비 오는 밤)"
+  },
+  "category": "科幻",
+  "rating": "general",
+  "description": "a narrow back alley in an original near-future megacity: tall grimy concrete walls on the left and right crowded with air-conditioner units, tangled cables, metal fire escapes and pipes, several rectangular holographic panels projecting from the walls that show only blank flat fields of magenta and cyan colour with no text, symbols or faces, a row of tightly packed towers with lit windows closing the far end, steam venting from a grate at the right edge, stacked plastic crates at the left edge, wet asphalt reflecting the coloured light, and an empty patch of wet asphalt in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E057_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E057_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E057_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E057_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E057_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E057_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E058",
+  "type": "scene",
+  "name": "飞船走廊（常规照明）",
+  "names": {
+   "en": "Starship Corridor (Standard Lighting)",
+   "ja": "宇宙船の通路（通常照明）",
+   "ko": "우주선 복도 (일반 조명)"
+  },
+  "category": "科幻",
+  "rating": "general",
+  "description": "a corridor inside an original large starship: a hexagonal cross-section with matte white composite wall panels and dark grey structural ribs at regular intervals, recessed white strip lights along the upper edges, conduit bundles and handrails along the left and right walls, a closed sliding pressure door with a plain grey surface and no markings at the far end, a few small blank wall screens showing only soft blue, a grated metal deck floor over a solid sub-floor, and an empty stretch of deck in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E058_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E058_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E058_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E058_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E058_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E058_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E059",
+  "type": "scene",
+  "name": "奇幻酒馆（夜晚）",
+  "names": {
+   "en": "Fantasy Tavern (Night)",
+   "ja": "ファンタジーの酒場（夜）",
+   "ko": "판타지 선술집 (밤)"
+  },
+  "category": "奇幻与仙侠",
+  "rating": "general",
+  "description": "the common room of an original fantasy tavern: rough plastered walls between dark oak timber posts, a heavy beamed ceiling with dried herbs and iron lanterns hanging from it, a long wooden bar counter with wooden casks stacked behind it across the far wall, a large stone fireplace on the left wall, sturdy wooden tables and benches along the right wall, a wooden staircase rising at the far right, a blank wooden board with no writing on a post, worn wide plank floor, and an empty patch of floor in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E059_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E059_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E059_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E059_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E059_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E059_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E060",
+  "type": "scene",
+  "name": "浮空岛悬崖（白天）",
+  "names": {
+   "en": "Floating Island Edge (Day)",
+   "ja": "浮遊島の崖（昼）",
+   "ko": "부유섬 절벽 (낮)"
+  },
+  "category": "奇幻与仙侠",
+  "rating": "general",
+  "description": "the grassy edge of an original floating island high above the clouds: a level meadow of short grass and wildflowers with a worn earth path, the ground ending in a rocky cliff edge across the far side beyond which a sea of white clouds stretches to the horizon, two other smaller floating islands with trees and hanging roots drifting in the far distance on the left and right, a weathered stone arch ruin at the left edge, a gnarled windswept tree at the right edge, and an empty patch of grass in the centre about four metres from the camera, well back from the cliff",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E060_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E060_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E060_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E060_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E060_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E060_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E061",
+  "type": "scene",
+  "name": "仙山云台（日出）",
+  "names": {
+   "en": "Immortal Cloud Terrace (Sunrise)",
+   "ja": "仙山の雲台（日の出）",
+   "ko": "선산 운대 (일출)"
+  },
+  "category": "奇幻与仙侠",
+  "rating": "general",
+  "description": "an original xianxia mountain terrace high above a sea of clouds: a wide flat platform of pale white jade-like stone slabs with a carved white stone balustrade along the far edge, beyond it a vast sea of rolling clouds with sharp green-cloaked karst peaks rising out of it into the distance, a pavilion of red timber with sweeping upturned eaves and grey glazed tiles standing on a rock outcrop at the left edge, a twisted old pine growing from the cliff at the right edge, a long waterfall falling from a distant peak into the clouds, and an empty stretch of stone terrace in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E061_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E061_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E061_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E061_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E061_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E061_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E062",
+  "type": "scene",
+  "name": "竹林客栈（白天）",
+  "names": {
+   "en": "Bamboo Forest Inn (Day)",
+   "ja": "竹林の宿（昼）",
+   "ko": "죽림 객잔 (낮)"
+  },
+  "category": "奇幻与仙侠",
+  "rating": "general",
+  "description": "the courtyard of an original wuxia-style country inn in a bamboo forest: a two-storey timber inn building with a covered upper gallery, wooden lattice doors and a grey tile roof across the far side, a blank wooden signboard over the door and a blank cloth banner on a tall bamboo pole at the left edge, a low wooden fence and dense tall green bamboo grove closing the left and right, a stone well and stacked wine jars with plain red paper seals at the right edge, a packed earth yard, and an empty patch of earth in the centre about four metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E062_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E062_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E062_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E062_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E062_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E062_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E063",
+  "type": "scene",
+  "name": "白色无影墙（高调）",
+  "names": {
+   "en": "White Cyclorama (High Key)",
+   "ja": "白ホリゾント（ハイキー）",
+   "ko": "화이트 호리존 (하이키)"
+  },
+  "category": "无缝背景纸",
+  "rating": "general",
+  "description": "a large photographic studio white cyclorama, a smooth matte white curved wall that sweeps seamlessly into a matte white floor with no visible corner or seam, the white surface filling the whole background and both edges of the frame, the floor-to-wall curve forming a soft gradient band far behind the standing spot, nothing else in frame, and a clear patch of plain white floor in the centre about 4 metres from the camera",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E063_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E063_below.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E064",
+  "type": "scene",
+  "name": "无缝纸背景（中灰）",
+  "names": {
+   "en": "Seamless Paper (Mid Grey)",
+   "ja": "背景紙（ミディアムグレー）",
+   "ko": "배경지 (미디엄 그레이)"
+  },
+  "category": "无缝背景纸",
+  "rating": "general",
+  "description": "a photographic studio set of a wide roll of neutral mid-grey seamless backdrop paper hanging from far above the frame and sweeping in a smooth curve onto the floor toward the camera, the neutral mid-grey paper filling the whole background and both edges of the frame with a uniform matte surface, no creases or tears, the same paper continuing under the standing spot, nothing else in frame, and a clear patch of plain neutral mid-grey paper floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E064_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E064_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E064_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E064_below.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E065",
+  "type": "scene",
+  "name": "黑色背景（低调）",
+  "names": {
+   "en": "Black Seamless (Low Key)",
+   "ja": "黒背景（ローキー）",
+   "ko": "블랙 배경 (로우키)"
+  },
+  "category": "无缝背景纸",
+  "rating": "general",
+  "description": "a photographic studio set of matte black seamless backdrop paper sweeping in a smooth curve from the background onto the floor, the black filling the whole background and both edges of the frame and fading to pure black toward the top and sides, the matte black floor faintly visible in front, nothing else in frame, and a clear patch of matte black floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E065_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E065_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E065_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E065_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E065_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E065_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E066",
+  "type": "scene",
+  "name": "手绘肌理布（古典肖像光）",
+  "names": {
+   "en": "Painted Canvas Backdrop (Classic Portrait)",
+   "ja": "手描き背景布（クラシック）",
+   "ko": "핸드페인팅 배경천 (클래식 인물광)"
+  },
+  "category": "纹理背景",
+  "rating": "general",
+  "description": "a photographic studio set of a large hand-painted canvas backdrop with a soft mottled cloudy pattern in muted olive grey and brown tones, darker at the edges and lighter behind the centre, the canvas filling the whole background and both edges of the frame and draping in a smooth sweep onto the floor toward the camera, no visible hem, frame or pattern of recognisable shapes, nothing else in frame, and a clear patch of plain canvas floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E066_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E066_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E066_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E066_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E066_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E066_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E067",
+  "type": "scene",
+  "name": "窗光影棚（晨光）",
+  "names": {
+   "en": "Window-Light Studio (Morning Light)",
+   "ja": "窓明かりのスタジオ（朝の光）",
+   "ko": "창가 스튜디오 (아침 햇살)"
+  },
+  "category": "光线布景",
+  "rating": "general",
+  "description": "a daylight photo studio with a plain warm white plaster far wall filling the background, a tall floor-to-ceiling window along the left wall covered by sheer white curtains that hang straight and let light through but show no view outside, a pale bleached wood floor running from the window to the right edge, the right side plain white wall, no furniture, no plants, no equipment, and a clear patch of plain wood floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E067_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E067_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E067_below.webp",
+     "w900": "assets/scene/plain/w900/scene_E067_below.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E067_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E067_eye.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "E068",
+  "type": "scene",
+  "name": "彩色滤光影棚（品红与青）",
+  "names": {
+   "en": "Coloured Gel Studio (Magenta & Teal)",
+   "ja": "カラーゲルのスタジオ（マゼンタ×ティール）",
+   "ko": "컬러 젤 스튜디오 (마젠타·틸)"
+  },
+  "category": "光线布景",
+  "rating": "general",
+  "description": "a photographic studio set of light grey seamless backdrop paper sweeping in a smooth curve onto the floor, the backdrop filling the whole background and both edges of the frame, washed with coloured light so the left half of the backdrop glows magenta and the right half glows teal, the two colours blending softly in a vertical band behind the standing spot, the floor picking up both colours, no lamps or stands visible, nothing else in frame, and a clear patch of grey seamless floor in the centre about 4 metres from the camera",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E068_above.webp",
+     "w900": "assets/scene/plain/w900/scene_E068_above.webp"
+    }
+   },
+   "eye": {
+    "image": {
+     "w300": "assets/scene/plain/w300/scene_E068_eye.webp",
+     "w900": "assets/scene/plain/w900/scene_E068_eye.webp"
+    }
+   }
+  }
+ }
+]

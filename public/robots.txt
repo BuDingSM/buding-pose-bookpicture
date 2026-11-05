@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pose.xizanghuapi.cn/sitemap.xml

@@ -1,0 +1,1166 @@
+[
+ {
+  "id": "T001",
+  "type": "prop",
+  "name": "木吉他（原木色）",
+  "names": {
+   "en": "Acoustic Guitar (Natural)",
+   "ja": "アコースティックギター（ナチュラル）",
+   "ko": "어쿠스틱 기타 (내추럴)"
+  },
+  "category": "吉他与提琴",
+  "rating": "general",
+  "description": "a generic steel-string acoustic guitar with a full rounded dreadnought body, a pale natural spruce top and warm brown mahogany back and sides, one round soundhole with a plain thin ring rosette, a plain teardrop pickguard, a rectangular dark bridge with exactly six bridge pins, exactly six strings running the full length, a dark fretboard with twenty frets and small dot inlays, and a plain flat-topped headstock with exactly three tuning pegs on each side, six in total; no logo on the headstock, no strap, no pick",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T001_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T001_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T001_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T001_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T001_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T001_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T001_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T001_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T002",
+  "type": "prop",
+  "name": "电吉他（樱桃红）",
+  "names": {
+   "en": "Electric Guitar (Cherry Red)",
+   "ja": "エレキギター（チェリーレッド）",
+   "ko": "일렉트릭 기타 (체리 레드)"
+  },
+  "category": "吉他与提琴",
+  "rating": "general",
+  "description": "a generic solid-body electric guitar of original design in glossy cherry red: a compact symmetrical body with two short equal rounded horns and a soft round lower bout, a plain black pickguard, two black covered pickups, a fixed bridge, three round control knobs and one small switch, a bolt-on maple neck with a dark fretboard, twenty-two frets and dot inlays, exactly six strings, and a small symmetrical rounded headstock with exactly three tuning pegs on each side, six in total; no pointed horns, no single cutaway, no six-in-line headstock, no carved arched top, no logo, no strap, no cable",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T002_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T002_back.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T002_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T002_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T002_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T002_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T003",
+  "type": "prop",
+  "name": "小提琴（琥珀色）",
+  "names": {
+   "en": "Violin (Amber)",
+   "ja": "バイオリン（アンバー）",
+   "ko": "바이올린 (앰버)"
+  },
+  "category": "吉他与提琴",
+  "rating": "general",
+  "description": "a violin in warm golden-amber varnish with its bow: an hourglass-shaped body with a carved spruce top and flamed maple back, two f-shaped sound holes, a raised maple bridge, exactly four strings running over a black ebony fingerboard with no frets, a black tailpiece and black chinrest, a pegbox with exactly four black tuning pegs, two on each side, ending in a carved scroll; the bow, a long thin dark wooden stick with pale horsehair and a black frog, floats just behind and parallel to the violin at a slight diagonal; no case, no shoulder rest",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T003_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T003_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T003_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T003_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T003_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T003_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T003_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T003_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T004",
+  "type": "prop",
+  "name": "大提琴（红棕）",
+  "names": {
+   "en": "Cello (Reddish Brown)",
+   "ja": "チェロ（赤茶）",
+   "ko": "첼로 (적갈색)"
+  },
+  "category": "吉他与提琴",
+  "rating": "general",
+  "description": "a full-size cello in deep reddish-brown varnish standing upright on its extended steel endpin: an hourglass-shaped body about 75 cm long with a carved spruce top and flamed maple back, two f-shaped sound holes, a tall maple bridge, exactly four strings over a long black ebony fingerboard with no frets, a black tailpiece, a pegbox with exactly four tuning pegs, two on each side, ending in a carved scroll; no bow, no case, no stand",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T004_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T004_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T004_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T004_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T004_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T004_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T004_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T004_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T005",
+  "type": "prop",
+  "name": "中音萨克斯（金色漆）",
+  "names": {
+   "en": "Alto Saxophone (Gold Lacquer)",
+   "ja": "アルトサックス（ゴールドラッカー）",
+   "ko": "알토 색소폰 (골드 래커)"
+  },
+  "category": "管乐与鼓",
+  "rating": "general",
+  "description": "an alto saxophone in gold-lacquered brass: a conical body standing upright with a U-shaped bottom bow and an upturned flared bell facing forward, a curved neck at the top with a black mouthpiece and a metal ligature, rows of padded key cups along the body with pearl finger touches, rod linkages and key guards, the bell plain without engraving; no strap, no stand, no case",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T005_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T005_back.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T005_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T005_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T005_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T005_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T006",
+  "type": "prop",
+  "name": "小号（金色）",
+  "names": {
+   "en": "Trumpet (Brass)",
+   "ja": "トランペット（ゴールド）",
+   "ko": "트럼펫 (골드)"
+  },
+  "category": "管乐与鼓",
+  "rating": "general",
+  "description": "a B-flat trumpet in clear-lacquered yellow brass, oriented horizontally with the bell pointing to the right and the mouthpiece at the left: a flared bell, a long wrapped leadpipe ending in a mouthpiece at the left, exactly three upright piston valves in one row with round pearl finger buttons on top, the main tuning slide curving forward, a small first-valve slide ring and a water key, the bell plain without engraving; no case, no mute",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T006_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T006_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T006_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T006_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T007",
+  "type": "prop",
+  "name": "长笛（银色）",
+  "names": {
+   "en": "Concert Flute (Silver)",
+   "ja": "フルート（シルバー）",
+   "ko": "플루트 (실버)"
+  },
+  "category": "管乐与鼓",
+  "rating": "general",
+  "description": "a silver concert flute shown vertically with the headjoint at the top: a straight slim tube about 67 cm long in three joined sections, a headjoint with a raised lip plate and embouchure hole and a round crown cap, a body with a row of closed round key cups and rod linkages along one side, and a short foot joint with a few keys at the bottom; plain metal, no engraving, no case",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T007_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T007_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T007_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T007_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T007_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T007_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T007_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T007_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T008",
+  "type": "prop",
+  "name": "古筝（红木）",
+  "names": {
+   "en": "Guzheng (Rosewood)",
+   "ja": "古箏（紅木）",
+   "ko": "고쟁 (홍목)"
+  },
+  "category": "民族弦乐",
+  "rating": "general",
+  "description": "a Chinese guzheng about 163 cm long lying flat on an invisible floor, its long side facing the camera: a long box body in dark reddish-brown rosewood with a gently arched paulownia soundboard, exactly twenty-one strings running lengthwise, each string resting on its own small movable bridge, the twenty-one bridges forming one diagonal line across the soundboard, a fixed curved bridge near each end, a row of tuning pins under a carved cover at the right end, a narrow plain decorative band at the left end; no legs, no stand, no picks, no characters or seals on the body",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T008_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T008_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T008_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T008_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T008_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T008_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T008_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T008_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T009",
+  "type": "prop",
+  "name": "琵琶（红木）",
+  "names": {
+   "en": "Pipa (Rosewood)",
+   "ja": "琵琶（紅木）",
+   "ko": "비파 (홍목)"
+  },
+  "category": "民族弦乐",
+  "rating": "general",
+  "description": "a Chinese pipa held upright: a pear-shaped body in dark reddish-brown rosewood with a flat pale paulownia soundboard and no soundhole, a small low string-holder bridge near the bottom, exactly four strings, a short neck carrying exactly six tall wedge-shaped wooden frets (xiang), then a long evenly spaced run of thin bamboo frets set into the soundboard below them, reaching about two-thirds of the way down, a pegbox bent slightly back with exactly four lateral tuning pegs, two on each side, topped by a small plain curled head; no dragon or bat carving, no plectrum or nail picks",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T009_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T009_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T009_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T009_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T009_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T009_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T009_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T009_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T011",
+  "type": "prop",
+  "name": "古琴（黑漆）",
+  "names": {
+   "en": "Guqin (Black Lacquer)",
+   "ja": "古琴（黒漆）",
+   "ko": "고금 (흑칠)"
+  },
+  "category": "民族弦乐",
+  "rating": "general",
+  "description": "a Chinese guqin about 120 cm long lying flat on an invisible floor, its long side facing the camera, seen from the player's side: a long narrow slightly arched wooden body in deep black lacquer with fine crackle lines, the head end (right) wider than the tail end (left), a pair of shallow waist notches, exactly seven strings running lengthwise with no bridges and no frets, exactly thirteen small round mother-of-pearl hui dots in one row along the near edge of the top, a low hardwood ridge at the head end where the strings start, seven tuning pegs under the head with short silk tassels hanging down; no legs, no table, no characters or seals",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T011_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T011_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T011_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T011_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T011_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T011_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T011_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T011_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T013",
+  "type": "prop",
+  "name": "油纸伞（撑开）（红底梅花）",
+  "names": {
+   "en": "Oil-paper Umbrella, Open (Red with Plum)",
+   "ja": "油紙傘（開き）（赤地に梅）",
+   "ko": "유지산(펼침) (홍색 매화)"
+  },
+  "category": "伞与扇",
+  "rating": "general",
+  "description": "an open Chinese oil-paper umbrella floating upright with the shaft vertical: a shallow dome canopy of deep red oiled paper about 90 cm across, painted with one branch of white plum blossom near the rim, stretched over many thin bamboo ribs radiating evenly from a small wrapped top cap to the rim, the inner frame under the canopy showing a ring of short bamboo stretchers and a band of coloured thread woven around the runner, a straight round bamboo shaft and a plain bamboo handle; no characters, no seals, no metal parts",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T013_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T013_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T013_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T013_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T013_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T013_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T013_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T013_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T014",
+  "type": "prop",
+  "name": "团扇（米白牡丹）",
+  "names": {
+   "en": "Round Silk Fan (Cream with Peony)",
+   "ja": "団扇（中国の絹団扇）（生成りに牡丹）",
+   "ko": "단선 (크림 모란)"
+  },
+  "category": "伞与扇",
+  "rating": "general",
+  "description": "a Chinese round silk fan (tuanshan) floating upright: a flat perfectly circular leaf of translucent cream silk about 25 cm across stretched taut over a thin round dark brown bamboo rim, painted with one pink peony with two leaves in soft gongbi colours off-centre, a straight round dark brown bamboo handle running from the bottom of the rim downward, ending in a small knotted cord and a short silk tassel; no characters, no seals, no ribs showing through the silk",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T014_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T014_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T014_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T014_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T014_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T014_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T014_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T014_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T015",
+  "type": "prop",
+  "name": "折扇（展开）（素面）",
+  "names": {
+   "en": "Folding Fan, Open (Blank)",
+   "ja": "扇子（中国の折扇・開き）（無地）",
+   "ko": "접부채(펼침) (무지)"
+  },
+  "category": "伞与扇",
+  "rating": "general",
+  "description": "an open Chinese folding fan floating upright with the pivot at the bottom: opened wide to an arc of about 120 degrees, clearly wider than a right angle, a pleated plain ivory paper leaf on the upper half, left blank, and below it the bare bamboo sticks; exactly sixteen sticks in total, fourteen thin inner sticks plus two wider outer guard sticks at the left and right edges, all fanning out evenly from one small round pivot rivet, the leaf folded into evenly spaced pleats one per stick; no characters, no calligraphy, no seals, no tassel",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T015_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T015_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T015_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T015_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T015_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T015_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T015_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T015_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T016",
+  "type": "prop",
+  "name": "宫灯（红木）",
+  "names": {
+   "en": "Palace Lantern (Rosewood)",
+   "ja": "宮灯（紅木）",
+   "ko": "궁등 (홍목)"
+  },
+  "category": "灯笼",
+  "rating": "general",
+  "description": "a Chinese hexagonal palace lantern hanging from a short red silk cord: a six-sided frame of carved dark reddish-brown rosewood wood, exactly six tall rectangular panels of cream silk each painted with a small flower spray, a carved hexagonal top crown with six upturned corners, a short red silk tassel hanging from each of the six corners, a narrower carved hexagonal base with a small turned finial at the bottom; unlit; no characters, no seals",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T016_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T016_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T016_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T016_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T018",
+  "type": "prop",
+  "name": "盖碗（青花）",
+  "names": {
+   "en": "Lidded Tea Bowl (Blue and White)",
+   "ja": "蓋碗（染付）",
+   "ko": "개완 (청화)"
+  },
+  "category": "茶酒与食盒",
+  "rating": "general",
+  "description": "a Chinese porcelain gaiwan in three separate pieces stacked as one: a shallow round saucer at the bottom, a flared tea bowl about 9 cm high sitting in it, and a domed lid with a small round knob resting inside the bowl rim, white porcelain painted with a cobalt-blue lotus scroll; lid on; no tea visible, no spoon, no characters or marks",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T018_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T018_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T018_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T018_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T018_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T018_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T018_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T018_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T019",
+  "type": "prop",
+  "name": "卷轴（收卷）（蓝锦）",
+  "names": {
+   "en": "Rolled Hanging Scroll (Blue Brocade)",
+   "ja": "掛軸（巻いた状態）（藍の錦）",
+   "ko": "족자(말림) (남색 비단)"
+  },
+  "category": "文房与佩饰",
+  "rating": "general",
+  "description": "a rolled Chinese hanging scroll lying horizontally on an invisible floor: a cylinder about 60 cm long covered in muted blue silk brocade mounting with a small woven cloud pattern, tied around the middle with a thin flat cord that wraps twice and ends in a small pale jade toggle, and a round dark rosewood roller knob protruding from each end; rolled shut, no painting visible, no label, no characters",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T019_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T019_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T019_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T019_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T019_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T019_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T019_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T019_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T021",
+  "type": "prop",
+  "name": "黄铜望远镜（桃花心木架）",
+  "names": {
+   "en": "Brass Telescope (Mahogany Tripod)",
+   "ja": "真鍮の望遠鏡（マホガニー三脚）",
+   "ko": "황동 망원경 (마호가니 삼각대)"
+  },
+  "category": "复古器物",
+  "rating": "general",
+  "description": "an antique brass refracting telescope on its own wooden tripod: a long polished brass tube of three telescoping sections held level with the wide objective end toward image-right and the narrow eyepiece toward image-left, mounted by a brass yoke on top of a dark mahogany tripod with three straight legs ending in brass feet, no engraving, no lettering",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T021_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T021_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T021_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T021_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T022",
+  "type": "prop",
+  "name": "煤油提灯（黄铜）",
+  "names": {
+   "en": "Oil Lantern (Brass)",
+   "ja": "オイルランタン（真鍮）",
+   "ko": "석유 랜턴 (황동)"
+  },
+  "category": "复古器物",
+  "rating": "general",
+  "description": "an antique hurricane oil lantern, unlit: a aged brass frame with a round fuel tank at the base, a clear glass globe protected by four vertical wire guards, a vented cap on top and a wire bail handle standing upright, a dark wick visible inside, no flame, no glow, no light, no lettering",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T022_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T022_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T022_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T022_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T022_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T022_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T022_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T022_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T023",
+  "type": "prop",
+  "name": "水晶球（黄铜座）",
+  "names": {
+   "en": "Crystal Ball (Brass Stand)",
+   "ja": "水晶玉（真鍮台）",
+   "ko": "수정 구슬 (황동 받침)"
+  },
+  "category": "复古器物",
+  "rating": "general",
+  "description": "a clear glass crystal ball about 12 cm across resting in an integral polished brass cradle stand: a round cup holding the ball, a short turned stem and three curled feet, the ball perfectly clear and empty with only soft reflections, no glow, no smoke, no image inside, no engraving",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T023_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T023_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T023_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T023_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T023_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T023_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T023_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T023_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T024",
+  "type": "prop",
+  "name": "沙漏（胡桃木）",
+  "names": {
+   "en": "Hourglass (Walnut)",
+   "ja": "砂時計（ウォルナット）",
+   "ko": "모래시계 (월넛)"
+  },
+  "category": "复古器物",
+  "rating": "general",
+  "description": "an antique hourglass about 25 cm tall: two identical clear glass bulbs joined at one narrow waist, held between two round dark walnut end plates connected by three turned dark walnut posts, pale sand filling most of the lower bulb in a smooth mound with a small amount left in the upper bulb and a thin stream falling through the waist, no engraving, no numbers",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T024_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T024_diag.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T025",
+  "type": "prop",
+  "name": "长柄伞（撑开）（红色）",
+  "names": {
+   "en": "Long Umbrella, Open (Red)",
+   "ja": "長傘（開き）（赤）",
+   "ko": "장우산（펼침） (레드)"
+  },
+  "category": "伞与花",
+  "rating": "general",
+  "description": "an opened long stick umbrella held upright, a domed solid scarlet red canopy of exactly eight panels stretched over eight ribs with a small metal tip at the end of each rib and a short finial on top, a straight shaft down the centre to a J-shaped crook handle in natural wood, no pattern, no logo",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T025_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T025_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T025_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T025_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T025_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T025_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T025_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T025_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T026",
+  "type": "prop",
+  "name": "纸包花束（红玫瑰）",
+  "names": {
+   "en": "Wrapped Bouquet (Red Roses)",
+   "ja": "紙包みの花束（赤いバラ）",
+   "ko": "꽃다발 (빨간 장미)"
+  },
+  "category": "伞与花",
+  "rating": "general",
+  "description": "a hand-tied bouquet held upright with the flowers at the top: about a dozen deep red roses with a few green leaves, wrapped in a cone of plain brown kraft paper folded in overlapping layers and tied at the narrow base with a cream satin ribbon bow, the stems' cut ends just showing below the wrap, no card, no tag, no printing",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T026_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T026_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T026_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T026_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T026_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T026_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T026_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T026_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T027",
+  "type": "prop",
+  "name": "35mm 胶片单反（银黑）",
+  "names": {
+   "en": "35mm Film SLR (Chrome)",
+   "ja": "35mm フィルム一眼レフ（シルバー）",
+   "ko": "35mm 필름 SLR (실버)"
+  },
+  "category": "相机",
+  "rating": "general",
+  "description": "a generic 1970s 35mm film SLR camera with a satin chrome metal body and black leatherette covering, a pointed pentaprism hump on top with no nameplate, a film-advance lever, a shutter-speed dial and a rewind crank on the top plate, and a black 50 mm prime lens with a knurled focus ring, lens cap off, no brand name, no engraved numbers readable",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T027_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T027_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T027_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T027_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T027_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T027_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T027_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T027_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T028",
+  "type": "prop",
+  "name": "拍立得相机（薄荷绿）",
+  "names": {
+   "en": "Instant Camera (Mint)",
+   "ja": "インスタントカメラ（ミント）",
+   "ko": "즉석 카메라 (민트)"
+  },
+  "category": "相机",
+  "rating": "general",
+  "description": "a generic chunky instant-film camera with a rounded rectangular pastel mint green plastic body, one large round lens barrel at the centre of the front, a small rectangular optical viewfinder window at the upper left, a round flash window at the upper right, a wide horizontal print-exit slot across the top edge, no rainbow stripe, no brand name, no printed markings",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T028_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T028_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T028_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T028_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T028_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T028_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T028_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T028_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T029",
+  "type": "prop",
+  "name": "头戴耳机（黑色）",
+  "names": {
+   "en": "Over-ear Headphones (Black)",
+   "ja": "ヘッドホン（黒）",
+   "ko": "헤드폰 (블랙)"
+  },
+  "category": "音频",
+  "rating": "general",
+  "description": "a pair of generic over-ear headphones standing upright as if worn by an invisible head: a padded black headband, two slim metal sliders, two oval matte black ear cups with thick black protein-leather cushions facing each other, no cable, no logo on the cups",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T029_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T029_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T029_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T029_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T029_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T029_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T030",
+  "type": "prop",
+  "name": "手持舞台麦克风（黑色）",
+  "names": {
+   "en": "Handheld Stage Microphone (Black)",
+   "ja": "ハンドマイク（黒）",
+   "ko": "핸드 마이크 (블랙)"
+  },
+  "category": "音频",
+  "rating": "general",
+  "description": "a generic handheld dynamic stage microphone held vertically with the head up: a round dark grey steel mesh ball grille on top, a matte black tapered metal handle narrowing toward the bottom, one small flush on-off switch, and a plain cable socket at the base with no cable attached, no brand name",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T030_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T030_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T030_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T030_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T030_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T030_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T030_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T030_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T031",
+  "type": "prop",
+  "name": "复古电容麦（亮铬）",
+  "names": {
+   "en": "Vintage Condenser Microphone (Chrome)",
+   "ja": "ヴィンテージマイク（クローム）",
+   "ko": "빈티지 콘덴서 마이크 (크롬)"
+  },
+  "category": "音频",
+  "rating": "general",
+  "description": "a vintage-style large condenser microphone in polished chrome: a tall capsule-shaped body with a rounded top whose upper half is a fine woven mesh head and lower half a solid cylinder, mounted in a U-shaped yoke with two side knobs, floating upright with no stand, no cable, no badge and no lettering",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T031_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T031_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T031_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T031_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T031_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T031_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T031_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T031_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T032",
+  "type": "prop",
+  "name": "网球拍（黑框黄线）",
+  "names": {
+   "en": "Tennis Racket (Black & Yellow)",
+   "ja": "テニスラケット（黒フレーム・黄ガット）",
+   "ko": "테니스 라켓 (블랙·옐로)"
+  },
+  "category": "运动器材",
+  "rating": "general",
+  "description": "a modern tennis racket held vertically with the head at the top, the string face toward the camera: an oval head in matte black graphite, an open triangular throat, a tight grid of pale yellow strings (sixteen vertical, nineteen horizontal), a straight shaft ending in a black wrapped grip with a flat butt cap, no lettering or stencil on the frame or strings",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T032_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T032_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T032_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T032_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T032_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T032_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T032_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T032_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T033",
+  "type": "prop",
+  "name": "滑板（原木白轮）",
+  "names": {
+   "en": "Skateboard (Maple & White)",
+   "ja": "スケートボード（メープル・白ウィール）",
+   "ko": "스케이트보드 (메이플·화이트)"
+  },
+  "category": "运动器材",
+  "rating": "general",
+  "description": "a standard street skateboard, wheels down: a seven-ply maple deck with an upturned kicktail at each end, plain black grip tape on top, two silver metal trucks each with two off-white urethane wheels (four wheels total), and a plain natural-maple underside with no graphic, no logo, no lettering",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T033_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T033_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T033_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T033_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T033_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T033_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T034",
+  "type": "prop",
+  "name": "长板冲浪板（薄荷绿）",
+  "names": {
+   "en": "Longboard Surfboard (Seafoam)",
+   "ja": "ロングボード（シーフォーム）",
+   "ko": "롱보드 서프보드 (씨폼)"
+  },
+  "category": "运动器材",
+  "rating": "general",
+  "description": "a 9-foot longboard surfboard standing upright on its tail, deck facing the camera, rounded nose at the top: a glossy seafoam green resin finish, a thin dark wooden stringer running from nose to tail down the centre, soft rounded rails, and a single centre fin on the underside near the tail, no leash, no wax pattern, no logo, no lettering",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T034_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T034_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T034_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T034_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T034_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T034_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T035",
+  "type": "prop",
+  "name": "复古四轮旱冰鞋（白鞋粉轮）",
+  "names": {
+   "en": "Quad Roller Skate (White & Pink)",
+   "ja": "クアッドローラースケート（白ブーツ・ピンク）",
+   "ko": "쿼드 롤러스케이트 (화이트·핑크)"
+  },
+  "category": "运动器材",
+  "rating": "general",
+  "description": "a single right-foot retro quad roller skate: a high-top white leather boot laced with white laces through eight pairs of eyelets, a silver metal plate under the sole, two axles carrying four pastel pink wheels in two pairs (two at the front, two at the back), and one round rubber toe stop under the toe, no logo, no lettering",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T035_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T035_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T035_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T035_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T035_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T035_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T035_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T035_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "T036",
+  "type": "prop",
+  "name": "城市自行车（薄荷绿）",
+  "names": {
+   "en": "City Bicycle (Mint Green)",
+   "ja": "シティサイクル（ミントグリーン）",
+   "ko": "시티 자전거 (민트 그린)"
+  },
+  "category": "运动器材",
+  "rating": "general",
+  "description": "a classic city bicycle standing upright on its kickstand: a step-through mint green steel frame, two equal 28-inch wheels each with thirty-two thin silver spokes and black tyres, upswept handlebars with brown grips, a brown sprung leather saddle, full chrome mudguards over both wheels, a single front chainring and rear sprocket joined by a chain under a chain guard, two pedals, a small flat rear rack, no basket, no lights, no lettering or decals on the frame",
+  "variants": {
+   "back": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T036_back.webp",
+     "w900": "assets/prop/grey/w900/prop_T036_back.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T036_diag.webp",
+     "w900": "assets/prop/grey/w900/prop_T036_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T036_front.webp",
+     "w900": "assets/prop/grey/w900/prop_T036_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/prop/grey/w300/prop_T036_side.webp",
+     "w900": "assets/prop/grey/w900/prop_T036_side.webp"
+    }
+   }
+  }
+ }
+]
