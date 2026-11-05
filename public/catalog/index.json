@@ -1,0 +1,58 @@
+[
+ {
+  "type": "animal",
+  "count": 100,
+  "general": 100,
+  "suggestive": 0,
+  "file": "animal.json"
+ },
+ {
+  "type": "character",
+  "count": 1526,
+  "general": 1526,
+  "suggestive": 0,
+  "file": "character.json"
+ },
+ {
+  "type": "costume",
+  "count": 1804,
+  "general": 1360,
+  "suggestive": 444,
+  "file": "costume.json"
+ },
+ {
+  "type": "furniture",
+  "count": 41,
+  "general": 41,
+  "suggestive": 0,
+  "file": "furniture.json"
+ },
+ {
+  "type": "light",
+  "count": 50,
+  "general": 50,
+  "suggestive": 0,
+  "file": "light.json"
+ },
+ {
+  "type": "pose",
+  "count": 280,
+  "general": 107,
+  "suggestive": 173,
+  "file": "pose.json"
+ },
+ {
+  "type": "prop",
+  "count": 32,
+  "general": 32,
+  "suggestive": 0,
+  "file": "prop.json"
+ },
+ {
+  "type": "scene",
+  "count": 64,
+  "general": 64,
+  "suggestive": 0,
+  "file": "scene.json"
+ }
+]

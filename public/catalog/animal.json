@@ -1,0 +1,3554 @@
+[
+ {
+  "id": "A001",
+  "type": "animal",
+  "name": "端坐（基础）",
+  "names": {
+   "en": "Sitting Upright (Base)",
+   "ja": "お座り（基本）",
+   "ko": "앉기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "sitting upright on its haunches, front legs straight and close together under the chest, hind legs folded flat at the sides with the hind paws forward, tail curled around the front paws, head level and facing forward, ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A001_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A001_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A001_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A001_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A001_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A001_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A001_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A001_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A001_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A001_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A002",
+  "type": "animal",
+  "name": "伸懒腰（基础）",
+  "names": {
+   "en": "Stretch (Base)",
+   "ja": "伸び（基本）",
+   "ko": "기지개 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "a full forward stretch: front legs reaching far forward flat on the ground with the chest lowered close to the ground, hind legs straight and the hips raised high, back sloping down from the hips to the shoulders, tail raised straight up, head level between the front legs",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A002_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A002_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A002_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A002_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A002_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A002_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A002_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A002_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A002_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A002_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A003",
+  "type": "animal",
+  "name": "团成一团睡（基础）",
+  "names": {
+   "en": "Curled Asleep (Base)",
+   "ja": "丸まって寝る（基本）",
+   "ko": "동그랗게 자기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "lying curled into a round ball on its side, back rounded, head tucked against the hind legs, front paws folded under the chin, tail wrapped around the outside of the body covering the nose",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A003_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A003_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A003_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A003_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A003_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A003_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A003_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A003_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A004",
+  "type": "animal",
+  "name": "中型犬·坐（基础）",
+  "names": {
+   "en": "Medium Dog Sitting (Base)",
+   "ja": "中型犬・お座り（基本）",
+   "ko": "중형견 앉기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "sitting on its haunches with straight front legs side by side, hind legs folded with the hocks flat on the ground, chest up, head raised and facing forward, ears upright, tail curled over the back",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A004_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A004_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A004_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A004_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A004_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A004_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A005",
+  "type": "animal",
+  "name": "中型犬·奔跑（基础）",
+  "names": {
+   "en": "Medium Dog Running (Base)",
+   "ja": "中型犬・疾走（基本）",
+   "ko": "중형견 달리기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "running at full gallop in the extended phase: both front legs stretched far forward, both hind legs stretched far back, all four paws off the ground, body long and level, head forward, ears back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A005_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A005_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A005_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A005_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A006",
+  "type": "animal",
+  "name": "大型犬·趴下（基础）",
+  "names": {
+   "en": "Large Dog Lying Down (Base)",
+   "ja": "大型犬・伏せ（基本）",
+   "ko": "대형견 엎드리기 (기본)"
+  },
+  "category": "大型犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position: belly on the ground, front legs stretched straight forward parallel, hind legs folded under the hips, head raised and facing forward, drop ears hanging, tail lying straight behind",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A006_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A006_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A006_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A006_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A006_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A006_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A006_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A006_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A007",
+  "type": "animal",
+  "name": "兔·直立张望（基础）",
+  "names": {
+   "en": "Rabbit Standing Up (Base)",
+   "ja": "ウサギ・立ち上がり（基本）",
+   "ko": "토끼 일어서기 (기본)"
+  },
+  "category": "兔",
+  "rating": "general",
+  "description": "rising up on its long hind feet to look around: body upright, hind feet flat on the ground, front paws held loosely in front of the chest off the ground, long ears straight up, head facing forward",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A007_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A007_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A007_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A007_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A008",
+  "type": "animal",
+  "name": "马·扬蹄直立（基础）",
+  "names": {
+   "en": "Horse Rearing (Base)",
+   "ja": "馬・棒立ち（基本）",
+   "ko": "말 앞발 들기 (기본)"
+  },
+  "category": "马",
+  "rating": "general",
+  "description": "rearing up on its hind legs: body raised at about 45 degrees, both hind hooves on the ground under the body, both front legs lifted with the knees bent forward and the hooves tucked, neck arched, head up, tail hanging down",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A008_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A008_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A008_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A008_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A008_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A008_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A008_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A008_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A010",
+  "type": "animal",
+  "name": "中国龙·盘曲（基础）",
+  "names": {
+   "en": "Chinese Dragon Coiling (Base)",
+   "ja": "中国の竜・とぐろ（基本）",
+   "ko": "중국 용 휘감기 (기본)"
+  },
+  "category": "东方龙",
+  "rating": "general",
+  "description": "the serpentine body forming one large S-curve in mid-air, head raised at the top facing forward, four legs evenly spaced along the body with claws open, tail trailing at the bottom",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A010_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A010_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A010_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A010_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A010_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A010_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A010_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A010_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A010_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A010_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A011",
+  "type": "animal",
+  "name": "短腿犬·趴下（基础）",
+  "names": {
+   "en": "Short-Legged Dog Lying Down (Base)",
+   "ja": "短足犬・伏せ（基本）",
+   "ko": "단족견 엎드리기 (기본)"
+  },
+  "category": "短腿长身犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position: belly on the ground along the whole long body, short front legs stretched forward parallel, short hind legs folded under the hips, head raised and facing forward, long drop ears hanging, tail lying straight behind",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A011_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A011_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A011_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A011_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A013",
+  "type": "animal",
+  "name": "视觉猎犬·站立（基础）",
+  "names": {
+   "en": "Sighthound Standing (Base)",
+   "ja": "サイトハウンド・立ち姿（基本）",
+   "ko": "시각 하운드 서기 (기본)"
+  },
+  "category": "细长视觉猎犬",
+  "rating": "general",
+  "description": "standing square and still on all four paws: front legs straight and parallel under the deep chest, hind legs set back with a clear backward angle at the hock, a long gently arched back rising over the loin, the waist sharply tucked up behind the ribcage, long neck raised, head level, small rose ears folded back, long thin tail hanging low in a slight curve",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A013_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A013_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A013_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A013_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A013_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A013_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A014",
+  "type": "animal",
+  "name": "站立（基础）",
+  "names": {
+   "en": "Standing (Base)",
+   "ja": "立ち姿（基本）",
+   "ko": "서기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "standing still on all four paws in a calm square stance: back level, front legs straight and vertical under the shoulders, hind legs set slightly back with the hocks angled backward, tail held low in a gentle curve behind, head level and facing forward, ears up; exactly four paws on the ground",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A014_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A014_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A014_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A014_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A014_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A014_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A014_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A014_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A014_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A014_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A015",
+  "type": "animal",
+  "name": "走（基础）",
+  "names": {
+   "en": "Walking (Base)",
+   "ja": "歩く（基本）",
+   "ko": "걷기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "walking forward at a relaxed pace: left front paw and right hind paw lifted mid-step while the other two paws stay planted, back level, tail raised to half height with a soft curve at the tip, head level and looking ahead, ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A015_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A015_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A015_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A015_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A015_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A015_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A015_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A015_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A015_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A015_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A016",
+  "type": "animal",
+  "name": "奔跑（基础）",
+  "names": {
+   "en": "Running (Base)",
+   "ja": "走る（基本）",
+   "ko": "달리기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "running in the extended phase of the gallop: body long and low, both front legs stretched far forward, both hind legs stretched far back, all four paws just off the ground, tail straight out behind, head forward and level, ears back; not the gathered phase, not hind legs ahead of the front legs",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A016_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A016_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A016_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A016_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A016_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A016_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A017",
+  "type": "animal",
+  "name": "跳（基础）",
+  "names": {
+   "en": "Leaping Up (Base)",
+   "ja": "ジャンプ（基本）",
+   "ko": "뛰어오르기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "leaping upward and forward in mid-air: body angled up at about 45 degrees, front legs reaching forward and up with the paws together, hind legs fully extended down and back as if just pushed off, tail trailing down behind, head up toward the landing point, ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A017_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A017_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A017_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A017_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A017_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A017_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A017_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A017_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A017_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A017_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A018",
+  "type": "animal",
+  "name": "趴（狮身人面式）（基础）",
+  "names": {
+   "en": "Sphinx Lie (Base)",
+   "ja": "伏せ（スフィンクス）（基本）",
+   "ko": "엎드리기(스핑크스) (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "lying down in a sphinx position: belly and chest on the ground, front legs stretched forward side by side flat on the ground, hind legs folded under the body with the hind paws tucked beside the hips, tail lying along the ground beside the body, head raised and level, ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A018_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A018_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A018_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A018_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A018_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A018_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A018_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A018_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A018_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A018_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A019",
+  "type": "animal",
+  "name": "揣手趴（基础）",
+  "names": {
+   "en": "Loaf (Base)",
+   "ja": "香箱座り（基本）",
+   "ko": "식빵 자세 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "lying in a compact loaf: body an even rounded block on the ground, both front paws folded inward and hidden under the chest so no front legs show, hind legs fully tucked under with no paws visible, tail wrapped along the side of the body, head upright and level, ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A019_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A019_above.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A020",
+  "type": "animal",
+  "name": "侧卧（基础）",
+  "names": {
+   "en": "Lying on Side (Base)",
+   "ja": "横向きに寝る（基本）",
+   "ko": "옆으로 눕기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "lying flat on its right side, relaxed: back gently curved, both front legs extended forward one above the other, both hind legs extended back one above the other, tail lying straight out behind, head resting on the ground with the chin forward, eyes area closed and smooth, ears relaxed",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A020_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A020_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A020_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A020_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A020_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A020_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A020_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A020_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A020_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A020_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A021",
+  "type": "animal",
+  "name": "仰躺露肚（基础）",
+  "names": {
+   "en": "Belly Up (Base)",
+   "ja": "へそ天（基本）",
+   "ko": "배 보이고 눕기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "lying on its back with the belly facing up, spine slightly twisted so the hips tip toward the viewer: front legs bent with the paws curled loosely above the chest, hind legs bent and splayed outward with the hind paws in the air, tail lying flat on the ground, head turned sideways on the ground, ears relaxed",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A021_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A021_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A021_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A021_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A021_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A021_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A021_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A021_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A021_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A021_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A022",
+  "type": "animal",
+  "name": "回头（基础）",
+  "names": {
+   "en": "Looking Back (Base)",
+   "ja": "振り返る（基本）",
+   "ko": "뒤돌아보기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "standing on all four paws with the body facing forward but the neck turned so the head looks back over its left shoulder toward its own tail: front legs straight, hind legs set back with backward hocks, tail held low in a curve, ears turned toward the back",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A022_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A022_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A022_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A022_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A023",
+  "type": "animal",
+  "name": "舔爪（基础）",
+  "names": {
+   "en": "Licking a Paw (Base)",
+   "ja": "前足をなめる（基本）",
+   "ko": "앞발 핥기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "sitting upright on its haunches and grooming: the left front paw lifted to mouth height with the wrist bent, the right front leg straight and planted, hind legs folded flat at the sides, tail curled around the planted front paw, head lowered and turned slightly toward the raised paw, ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A023_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A023_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A023_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A023_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A023_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A023_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A023_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A023_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A023_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A023_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A024",
+  "type": "animal",
+  "name": "低伏（基础）",
+  "names": {
+   "en": "Low Crouch (Base)",
+   "ja": "低く構える（基本）",
+   "ko": "낮게 웅크리기 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "crouching low and still with the belly just above the ground: front legs bent with the elbows raised above the back line, hind legs bent and gathered under the hips with the hocks flat on the ground, back level and long, tail lying straight out behind along the ground, head low and level, ears forward; calm and watchful, nothing in front of it",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A024_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A024_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A024_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A024_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A024_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A024_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A025",
+  "type": "animal",
+  "name": "拱背伸展（基础）",
+  "names": {
+   "en": "Arched Back Stretch (Base)",
+   "ja": "背伸び（アーチ）（基本）",
+   "ko": "등 구부려 기지개 (기본)"
+  },
+  "category": "标准体型",
+  "rating": "general",
+  "description": "standing on all four straight legs with the back arched high into a rounded hump at the middle: all four paws planted close together, front legs and hind legs straight and vertical, tail raised and curving down at the tip, head lowered slightly below the shoulders, ears up; relaxed stretch, not hissing",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A025_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A025_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A025_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A025_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A025_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A025_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A025_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A025_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A025_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A025_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A026",
+  "type": "animal",
+  "name": "圆脸·坐（基础）",
+  "names": {
+   "en": "Cobby Sitting (Base)",
+   "ja": "ずんぐり・お座り（基本）",
+   "ko": "단단한 체형 앉기 (기본)"
+  },
+  "category": "圆脸矮壮",
+  "rating": "general",
+  "description": "sitting upright on its haunches: a short round body, short front legs straight and close together under the broad chest, hind legs folded flat at the sides, thick tail curled around the front paws, round head level with the short muzzle forward, small rounded ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A026_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A026_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A026_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A026_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A026_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A026_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A026_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A026_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A026_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A026_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A027",
+  "type": "animal",
+  "name": "圆脸·揣手趴（基础）",
+  "names": {
+   "en": "Cobby Loaf (Base)",
+   "ja": "ずんぐり・香箱座り（基本）",
+   "ko": "단단한 체형 식빵 자세 (기본)"
+  },
+  "category": "圆脸矮壮",
+  "rating": "general",
+  "description": "lying in a compact loaf: the short round body a wide rounded block on the ground, front paws tucked out of sight under the chest, hind legs tucked under, thick tail wrapped along the side, round head upright with the short muzzle forward, small rounded ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A027_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A027_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A027_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A027_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A027_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A027_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A027_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A027_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A029",
+  "type": "animal",
+  "name": "圆脸·侧卧（基础）",
+  "names": {
+   "en": "Cobby Lying on Side (Base)",
+   "ja": "ずんぐり・横向き寝（基本）",
+   "ko": "단단한 체형 옆으로 눕기 (기본)"
+  },
+  "category": "圆脸矮壮",
+  "rating": "general",
+  "description": "lying flat on its right side: the short round body gently curved, short front legs extended forward one above the other, short hind legs extended back one above the other, thick tail lying straight behind, round head resting on the ground with the short muzzle forward, small rounded ears relaxed",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A029_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A029_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A029_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A029_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A029_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A029_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A030",
+  "type": "animal",
+  "name": "长毛·侧卧（基础）",
+  "names": {
+   "en": "Longhair Lying on Side (Base)",
+   "ja": "長毛・横向き寝（基本）",
+   "ko": "장모 옆으로 눕기 (기본)"
+  },
+  "category": "长毛大型",
+  "rating": "general",
+  "description": "lying flat on its right side, stretched out to its full long length: back gently curved, both front legs extended forward one above the other, both hind legs extended back one above the other, long plumed tail lying straight out behind, large head resting on the ground with the squarish muzzle forward, large tufted ears relaxed",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A030_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A030_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A030_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A030_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A030_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A030_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A031",
+  "type": "animal",
+  "name": "长毛·站立（基础）",
+  "names": {
+   "en": "Longhair Standing (Base)",
+   "ja": "長毛・立ち姿（基本）",
+   "ko": "장모 서기 (기본)"
+  },
+  "category": "长毛大型",
+  "rating": "general",
+  "description": "standing square on all four long sturdy legs: a long rectangular body with a level back, broad chest, front legs straight and vertical, hind legs set back with backward hocks, long plumed tail held low and straight behind, large head level, large tufted ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A031_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A031_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A031_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A031_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A031_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A031_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A031_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A031_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A032",
+  "type": "animal",
+  "name": "长毛·走（基础）",
+  "names": {
+   "en": "Longhair Walking (Base)",
+   "ja": "長毛・歩く（基本）",
+   "ko": "장모 걷기 (기본)"
+  },
+  "category": "长毛大型",
+  "rating": "general",
+  "description": "walking forward at a steady pace: left front paw and right hind paw lifted mid-step while the other two paws stay planted, long back level, long plumed tail raised to half height with a gentle curve, large head level and looking ahead, large tufted ears forward",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A032_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A032_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A032_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A032_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A033",
+  "type": "animal",
+  "name": "长毛·坐（基础）",
+  "names": {
+   "en": "Longhair Sitting (Base)",
+   "ja": "長毛・お座り（基本）",
+   "ko": "장모 앉기 (기본)"
+  },
+  "category": "长毛大型",
+  "rating": "general",
+  "description": "sitting upright on its haunches: tall and big-boned, long front legs straight and close together under the broad chest, hind legs folded flat at the sides with the large hind paws forward, long plumed tail wrapped around the front paws, large head level, large tufted ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A033_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A033_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A033_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A033_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A033_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A033_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A033_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A033_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A033_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A033_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A034",
+  "type": "animal",
+  "name": "细长·站立（基础）",
+  "names": {
+   "en": "Slender Standing (Base)",
+   "ja": "スレンダー・立ち姿（基本）",
+   "ko": "날씬한 체형 서기 (기본)"
+  },
+  "category": "细长",
+  "rating": "general",
+  "description": "standing square on all four long thin legs: a long tubular body with a level back, front legs straight and vertical, hind legs set back with backward hocks and slightly higher hips, long thin tail held low in a gentle curve, long wedge head level on the long neck, large pointed ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A034_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A034_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A034_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A034_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A034_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A034_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A034_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A034_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A035",
+  "type": "animal",
+  "name": "细长·走（基础）",
+  "names": {
+   "en": "Slender Walking (Base)",
+   "ja": "スレンダー・歩く（基本）",
+   "ko": "날씬한 체형 걷기 (기본)"
+  },
+  "category": "细长",
+  "rating": "general",
+  "description": "walking forward with a long graceful stride: left front paw and right hind paw lifted mid-step while the other two paws stay planted, long back level, long thin tail raised high in a smooth curve, wedge head level on the long neck, large pointed ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A035_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A035_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A035_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A035_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A035_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A035_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A035_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A035_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A035_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A035_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A036",
+  "type": "animal",
+  "name": "细长·坐（基础）",
+  "names": {
+   "en": "Slender Sitting (Base)",
+   "ja": "スレンダー・お座り（基本）",
+   "ko": "날씬한 체형 앉기 (기본)"
+  },
+  "category": "细长",
+  "rating": "general",
+  "description": "sitting upright and tall on its haunches: long thin front legs straight and close together, hind legs folded at the sides, long thin tail laid straight along the ground beside the body, long neck upright, wedge head level, large pointed ears up",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A036_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A036_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A036_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A036_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A036_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A036_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A036_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A036_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A037",
+  "type": "animal",
+  "name": "细长·伸懒腰（基础）",
+  "names": {
+   "en": "Slender Stretch (Base)",
+   "ja": "スレンダー・伸び（基本）",
+   "ko": "날씬한 체형 기지개 (기본)"
+  },
+  "category": "细长",
+  "rating": "general",
+  "description": "a full forward stretch: long front legs reaching far forward flat on the ground with the chest lowered close to the ground, hind legs straight with the hips raised high, long back sloping down from the hips to the shoulders, long thin tail raised straight up, wedge head level between the front legs, large pointed ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A037_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A037_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A037_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A037_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A037_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A037_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A037_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A037_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A037_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A037_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A038",
+  "type": "animal",
+  "name": "中型犬·站（基础）",
+  "names": {
+   "en": "Medium Dog Standing (Base)",
+   "ja": "中型犬・立ち（基本）",
+   "ko": "중형견 서기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "standing square on all four paws, back level, front legs straight and parallel under the shoulders, hind legs set back with the hocks angled backward and the hind paws flat, tail curled over the back, head raised and facing forward, ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A038_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A038_above.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A038_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A038_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A038_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A038_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A039",
+  "type": "animal",
+  "name": "中型犬·趴（基础）",
+  "names": {
+   "en": "Medium Dog Lying Down (Base)",
+   "ja": "中型犬・伏せ（基本）",
+   "ko": "중형견 엎드리기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position: belly flat on the ground, front legs stretched straight forward and parallel, hind legs folded under the hips with the hind paws tucked beside the body, tail curled to one side on the ground, head raised and facing forward, ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A039_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A039_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A039_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A039_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A039_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A039_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A039_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A039_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A042",
+  "type": "animal",
+  "name": "中型犬·走（基础）",
+  "names": {
+   "en": "Medium Dog Walking (Base)",
+   "ja": "中型犬・歩く（基本）",
+   "ko": "중형견 걷기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "walking forward at a calm pace toward image-left, back level, the near front leg reaching forward with its paw just touching down while the far front leg is back under the chest, the near hind leg pushing back with the hock angled backward while the far hind leg swings forward, three paws on the ground, tail curled over the back, head level and facing forward, ears upright",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A042_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A042_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A042_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A042_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A043",
+  "type": "animal",
+  "name": "中型犬·跳（基础）",
+  "names": {
+   "en": "Medium Dog Jumping (Base)",
+   "ja": "中型犬・ジャンプ（基本）",
+   "ko": "중형견 점프 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "leaping upward and forward toward image-left at the top of a jump, body angled up at the front, both front legs folded up under the chest, both hind legs stretched back and down after the push-off, all four paws off the ground, tail streaming out behind, head up and forward, ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A043_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A043_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A043_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A043_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A044",
+  "type": "animal",
+  "name": "中型犬·玩耍鞠躬（基础）",
+  "names": {
+   "en": "Medium Dog Play Bow (Base)",
+   "ja": "中型犬・プレイバウ（基本）",
+   "ko": "중형견 플레이 바우 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "a play bow: front legs bent flat on the ground with the forearms and chest lowered close to the ground, hind legs straight with the hips raised high, back sloping down from the hips to the shoulders, tail raised and curled over the back, head up between the front legs and facing forward, ears upright",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A044_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A044_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A044_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A044_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A044_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A044_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A045",
+  "type": "animal",
+  "name": "中型犬·回头（基础）",
+  "names": {
+   "en": "Medium Dog Looking Back (Base)",
+   "ja": "中型犬・振り返る（基本）",
+   "ko": "중형견 뒤돌아보기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "standing on all four paws facing image-left, body still, front legs straight, hind legs set back with backward hocks, neck turned sharply back over the near shoulder so the head faces image-right toward the tail, tail curled over the back, ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A045_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A045_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A045_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A045_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A046",
+  "type": "animal",
+  "name": "中型犬·舔爪（基础）",
+  "names": {
+   "en": "Medium Dog Licking a Paw (Base)",
+   "ja": "中型犬・足を舐める（基本）",
+   "ko": "중형견 발 핥기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position with the belly on the ground, the near front paw lifted slightly and turned inward, head lowered and turned toward that paw with the muzzle touching it, the far front leg flat forward on the ground, hind legs folded under the hips, tail curled on the ground beside the body, ears upright",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A046_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A046_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A047",
+  "type": "animal",
+  "name": "中型犬·仰躺露肚（基础）",
+  "names": {
+   "en": "Medium Dog Belly Up (Base)",
+   "ja": "中型犬・へそ天（基本）",
+   "ko": "중형견 배 보이기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "lying on its back on the ground with the belly facing up, the spine curved slightly to one side, both front legs folded loosely at the wrists and bent over the chest, both hind legs splayed open and bent at the knees with the paws in the air, tail lying on the ground, head tilted back on the ground with the ears flopped open",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A047_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A047_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A048",
+  "type": "animal",
+  "name": "中型犬·挠痒（基础）",
+  "names": {
+   "en": "Medium Dog Scratching (Base)",
+   "ja": "中型犬・耳の後ろを掻く（基本）",
+   "ko": "중형견 긁기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "sitting on its haunches, front legs straight and planted, the near hind leg lifted forward and up so the hind paw scratches behind the near ear, the far hind leg folded on the ground, tail curled on the ground behind, head tilted toward the scratching paw, ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A048_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A048_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A048_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A048_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A048_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A048_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A048_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A048_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A048_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A048_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A049",
+  "type": "animal",
+  "name": "中型犬·抖毛（基础）",
+  "names": {
+   "en": "Medium Dog Shaking Off (Base)",
+   "ja": "中型犬・ブルブル（基本）",
+   "ko": "중형견 몸 털기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "standing square on all four paws with the legs braced slightly apart, back level, the head and neck twisted to one side in mid-shake, ears flung out sideways, tail curled over the back",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A049_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A049_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A049_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A049_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A050",
+  "type": "animal",
+  "name": "中型犬·抬前爪（基础）",
+  "names": {
+   "en": "Medium Dog Paw Raised (Base)",
+   "ja": "中型犬・お手（基本）",
+   "ko": "중형견 앞발 들기 (기본)"
+  },
+  "category": "中型犬",
+  "rating": "general",
+  "description": "sitting on its haunches with the chest up, the near front leg lifted forward at shoulder height with the paw relaxed and pointing down, the far front leg straight on the ground, hind legs folded with the hocks flat on the ground, tail curled on the ground, head raised and facing forward, ears upright",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A050_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A050_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A050_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A050_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A050_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A050_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A051",
+  "type": "animal",
+  "name": "大型犬·站（基础）",
+  "names": {
+   "en": "Large Dog Standing (Base)",
+   "ja": "大型犬・立ち（基本）",
+   "ko": "대형견 서기 (기본)"
+  },
+  "category": "大型犬",
+  "rating": "general",
+  "description": "standing square on all four paws, back level, front legs straight and parallel under the deep chest, hind legs set back with the hocks angled backward, long tail hanging down with a slight curve at the tip, head raised on a strong neck and facing forward, drop ears hanging beside the cheeks",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A051_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A051_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A052",
+  "type": "animal",
+  "name": "大型犬·坐（基础）",
+  "names": {
+   "en": "Large Dog Sitting (Base)",
+   "ja": "大型犬・お座り（基本）",
+   "ko": "대형견 앉기 (기본)"
+  },
+  "category": "大型犬",
+  "rating": "general",
+  "description": "sitting on its haunches with a broad chest up, front legs straight and side by side, hind legs folded at the sides with the hocks flat on the ground, long tail lying on the ground curving forward beside the hind paws, head raised and facing forward, drop ears hanging",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A052_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A052_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A052_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A052_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A052_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A052_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A054",
+  "type": "animal",
+  "name": "大型犬·走（基础）",
+  "names": {
+   "en": "Large Dog Walking (Base)",
+   "ja": "大型犬・歩く（基本）",
+   "ko": "대형견 걷기 (기본)"
+  },
+  "category": "大型犬",
+  "rating": "general",
+  "description": "walking forward at a calm pace toward image-left, back level, the near front leg reaching forward with its paw just touching down, the far front leg back under the chest, the near hind leg pushing back with the hock angled backward, the far hind leg swinging forward, three paws on the ground, tail carried level behind, head level, drop ears hanging",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A054_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A054_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A055",
+  "type": "animal",
+  "name": "短腿犬·站（基础）",
+  "names": {
+   "en": "Short-Legged Dog Standing (Base)",
+   "ja": "短足犬・立ち（基本）",
+   "ko": "단족견 서기 (기본)"
+  },
+  "category": "短腿长身犬",
+  "rating": "general",
+  "description": "standing on all four very short legs, the long back level and more than twice as long as the dog is tall, the deep chest only a hand's width above the ground, front legs short and slightly turned out, hind legs short with the hocks angled backward, long tail carried level behind, head raised and facing forward, long drop ears hanging",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A055_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A055_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A055_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A055_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A055_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A055_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A056",
+  "type": "animal",
+  "name": "短腿犬·坐（基础）",
+  "names": {
+   "en": "Short-Legged Dog Sitting (Base)",
+   "ja": "短足犬・お座り（基本）",
+   "ko": "단족견 앉기 (기본)"
+  },
+  "category": "短腿长身犬",
+  "rating": "general",
+  "description": "sitting upright on its haunches, the long body rising steeply from the hips to the raised chest, short front legs straight and side by side, short hind legs folded flat at the sides, long tail lying on the ground behind, head raised and facing forward, long drop ears hanging",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A056_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A056_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A056_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A056_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A056_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A056_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A057",
+  "type": "animal",
+  "name": "短腿犬·走（基础）",
+  "names": {
+   "en": "Short-Legged Dog Walking (Base)",
+   "ja": "短足犬・歩く（基本）",
+   "ko": "단족견 걷기 (기본)"
+  },
+  "category": "短腿长身犬",
+  "rating": "general",
+  "description": "walking forward toward image-left, the long low back level, the near front leg stepping forward, the near hind leg pushing back with the hock angled backward, three short legs on the ground, the deep chest close to the ground, long tail carried level behind, head level, long drop ears swinging",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A057_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A057_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A058",
+  "type": "animal",
+  "name": "短腿犬·仰躺露肚（基础）",
+  "names": {
+   "en": "Short-Legged Dog Belly Up (Base)",
+   "ja": "短足犬・へそ天（基本）",
+   "ko": "단족견 배 보이기 (기본)"
+  },
+  "category": "短腿长身犬",
+  "rating": "general",
+  "description": "lying on its back with the long belly facing up, the long body straight along the ground, short front legs folded over the chest, short hind legs splayed open with the paws in the air, long tail lying on the ground, head tilted back with the long drop ears spread open on the ground",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A058_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A058_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A058_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A058_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A058_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A058_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A059",
+  "type": "animal",
+  "name": "视觉猎犬·坐（基础）",
+  "names": {
+   "en": "Sighthound Sitting (Base)",
+   "ja": "サイトハウンド・お座り（基本）",
+   "ko": "시각 하운드 앉기 (기본)"
+  },
+  "category": "细长视觉猎犬",
+  "rating": "general",
+  "description": "sitting upright on its haunches, long thin front legs straight and side by side under the deep chest, long hind legs folded with the hocks flat on the ground reaching forward past the hips, the waist sharply tucked, long thin tail lying on the ground curving forward, long neck raised, head level, small rose ears folded back",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A059_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A059_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A059_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A059_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A059_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A059_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A059_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A059_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A060",
+  "type": "animal",
+  "name": "视觉猎犬·趴（基础）",
+  "names": {
+   "en": "Sighthound Lying Down (Base)",
+   "ja": "サイトハウンド・伏せ（基本）",
+   "ko": "시각 하운드 엎드리기 (기본)"
+  },
+  "category": "细长视觉猎犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position: the deep chest and belly on the ground, long thin front legs stretched straight forward and parallel, long hind legs folded under the hips with the hocks flat, long thin tail lying along the ground, long neck raised, head level, small rose ears folded back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A060_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A060_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A060_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A060_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A060_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A060_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A062",
+  "type": "animal",
+  "name": "视觉猎犬·小跑（基础）",
+  "names": {
+   "en": "Sighthound Trotting (Base)",
+   "ja": "サイトハウンド・速歩（基本）",
+   "ko": "시각 하운드 속보 (기본)"
+  },
+  "category": "细长视觉猎犬",
+  "rating": "general",
+  "description": "trotting toward image-left with long reaching strides, back level, the near front leg and the far hind leg reaching forward together, the far front leg and the near hind leg pushing back together with the hock angled backward, two paws on the ground, long thin tail carried low behind, long neck extended, head level, rose ears folded back",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A062_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A062_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A065",
+  "type": "animal",
+  "name": "小型犬·后腿站立作揖（基础）",
+  "names": {
+   "en": "Small Dog Begging Up (Base)",
+   "ja": "小型犬・ちんちん（基本）",
+   "ko": "소형견 두 발로 서기 (기본)"
+  },
+  "category": "小型犬",
+  "rating": "general",
+  "description": "sitting up on its haunches with the body raised upright, balanced on the folded hind legs with the hocks flat on the ground, both front paws lifted together in front of the chest, plumed tail on the ground behind for balance, head raised and facing forward, small upright pointed ears",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A065_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A065_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A065_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A065_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A065_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A065_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A065_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A065_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A067",
+  "type": "animal",
+  "name": "小型犬·玩耍鞠躬（基础）",
+  "names": {
+   "en": "Small Dog Play Bow (Base)",
+   "ja": "小型犬・プレイバウ（基本）",
+   "ko": "소형견 플레이 바우 (기본)"
+  },
+  "category": "小型犬",
+  "rating": "general",
+  "description": "a play bow: short front legs bent flat on the ground with the chest lowered close to the ground, hind legs straight with the hips raised high, back sloping down from the hips to the shoulders, plumed tail raised over the back, head up and facing forward, small upright pointed ears",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A067_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A067_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A067_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A067_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A067_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A067_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A068",
+  "type": "animal",
+  "name": "短鼻犬·站（基础）",
+  "names": {
+   "en": "Short-Nosed Dog Standing (Base)",
+   "ja": "短頭犬・立ち（基本）",
+   "ko": "단두견 서기 (기본)"
+  },
+  "category": "短鼻壮实犬",
+  "rating": "general",
+  "description": "standing square on four short sturdy legs set wide apart under the broad deep chest, the short wide body tapering slightly to the hips, back level, hind legs with the hocks angled backward, very short stub tail, large square head held level with a very short flat muzzle, large upright rounded bat ears",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A068_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A068_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A069",
+  "type": "animal",
+  "name": "短鼻犬·坐（基础）",
+  "names": {
+   "en": "Short-Nosed Dog Sitting (Base)",
+   "ja": "短頭犬・お座り（基本）",
+   "ko": "단두견 앉기 (기본)"
+  },
+  "category": "短鼻壮实犬",
+  "rating": "general",
+  "description": "sitting on its haunches with the broad chest up, short sturdy front legs straight and set apart, hind legs folded at the sides with the hocks flat on the ground, stub tail hidden behind, large square head raised with a very short flat muzzle, large upright bat ears",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A069_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A069_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A069_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A069_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A069_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A069_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A070",
+  "type": "animal",
+  "name": "短鼻犬·趴（基础）",
+  "names": {
+   "en": "Short-Nosed Dog Lying Down (Base)",
+   "ja": "短頭犬・伏せ（基本）",
+   "ko": "단두견 엎드리기 (기본)"
+  },
+  "category": "短鼻壮实犬",
+  "rating": "general",
+  "description": "lying down in a sphinx position: the broad chest and belly on the ground, short front legs stretched forward and apart, hind legs splayed flat behind the hips with the soles of the hind paws facing up, large square head raised, very short flat muzzle, large upright bat ears",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A070_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A070_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A073",
+  "type": "animal",
+  "name": "兔·趴坐（基础）",
+  "names": {
+   "en": "Rabbit Loafing (Base)",
+   "ja": "ウサギ・香箱座り（基本）",
+   "ko": "토끼 웅크려 앉기 (기본)"
+  },
+  "category": "兔",
+  "rating": "general",
+  "description": "sitting low and compact on all four feet with the body rounded like a loaf: front paws tucked side by side under the chest and barely visible, long hind feet folded flat along the sides of the body with the heels under the hips, back a smooth rounded hump, short round tail against the rump, head level, long ears laid back flat along the back",
+  "variants": {
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A073_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A073_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A074",
+  "type": "animal",
+  "name": "兔·侧身瘫卧（基础）",
+  "names": {
+   "en": "Rabbit Stretched Out (Base)",
+   "ja": "ウサギ・横に伸びて寝る（基本）",
+   "ko": "토끼 길게 눕기 (기본)"
+  },
+  "category": "兔",
+  "rating": "general",
+  "description": "lying fully stretched out on its belly and slightly onto one side: front legs stretched straight forward in front of the chest, both long hind legs stretched straight out behind the body with the soles of the hind feet facing up and back, body long and flat on the ground, short round tail at the rump, head resting low on the ground between the front paws, long ears laid flat along the neck",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A074_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A074_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A074_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A074_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A076",
+  "type": "animal",
+  "name": "兔·洗脸（基础）",
+  "names": {
+   "en": "Rabbit Grooming (Base)",
+   "ja": "ウサギ・顔を洗う（基本）",
+   "ko": "토끼 세수하기 (기본)"
+  },
+  "category": "兔",
+  "rating": "general",
+  "description": "sitting back on its haunches to wash its face: body tilted upright at about 60 degrees, both long hind feet flat on the ground along the sides with the heels under the hips, both front paws raised together to the face and rubbing over the nose, short round tail against the ground behind, head tilted slightly down, long ears folded forward and down over the paws",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A076_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A076_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A077",
+  "type": "animal",
+  "name": "豚鼠·站立（基础）",
+  "names": {
+   "en": "Guinea Pig Standing (Base)",
+   "ja": "モルモット・立ち姿（基本）",
+   "ko": "기니피그 서기 (기본)"
+  },
+  "category": "豚鼠与仓鼠",
+  "rating": "general",
+  "description": "standing on all four short legs: round barrel body held level just above the ground, both short front legs straight under the chest, both short hind legs under the hips with the feet flat, no tail at all, blunt head level and facing forward, small ears drooping at the sides",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A077_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A077_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A077_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A077_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A077_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A077_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A077_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A077_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A078",
+  "type": "animal",
+  "name": "仓鼠·后腿站立（基础）",
+  "names": {
+   "en": "Hamster Sitting Up (Base)",
+   "ja": "ハムスター・立ち上がり（基本）",
+   "ko": "햄스터 일어서기 (기본)"
+  },
+  "category": "豚鼠与仓鼠",
+  "rating": "general",
+  "description": "sitting up on its hind legs: round body upright, both hind feet flat on the ground with the heels down, both front paws held together in front of the chest, round belly forward, tiny stub tail touching the ground behind, head up and facing forward, small round ears upright",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A078_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A078_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A078_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A078_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A078_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A078_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A079",
+  "type": "animal",
+  "name": "雪貂·伸长行走（基础）",
+  "names": {
+   "en": "Ferret Walking (Base)",
+   "ja": "フェレット・歩く（基本）",
+   "ko": "페럿 걷기 (기본)"
+  },
+  "category": "雪貂",
+  "rating": "general",
+  "description": "walking with the long body stretched low and level and the back slightly arched in the middle: near front leg stepping forward and far front leg back, near hind leg back and far hind leg forward, all four short legs visible under the long body, long tail held low and straight behind, head low and forward, small round ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A079_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A079_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A079_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A079_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A080",
+  "type": "animal",
+  "name": "马·站立（基础）",
+  "names": {
+   "en": "Horse Standing (Base)",
+   "ja": "馬・立ち姿（基本）",
+   "ko": "말 서기 (기본)"
+  },
+  "category": "马",
+  "rating": "general",
+  "description": "standing square on level ground with all four hooves planted: both front legs straight and vertical under the chest, both hind legs set under the hips with the hocks bending backward and the cannons vertical, back level, tail hanging straight down, neck raised in a natural curve, head level, ears pricked forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A080_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A080_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A080_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A080_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A080_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A080_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A080_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A080_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A081",
+  "type": "animal",
+  "name": "马·慢步（基础）",
+  "names": {
+   "en": "Horse Walking (Base)",
+   "ja": "馬・常歩（基本）",
+   "ko": "말 평보 (기본)"
+  },
+  "category": "马",
+  "rating": "general",
+  "description": "walking calmly with three hooves on the ground: near front leg lifted with the knee bent forward and the hoof just off the ground, far front leg straight and planted, near hind leg planted behind, far hind leg stepping forward under the belly, back level, tail hanging relaxed, neck stretched slightly forward and low, ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A081_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A081_above.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A081_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A081_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A082",
+  "type": "animal",
+  "name": "马·快步（基础）",
+  "names": {
+   "en": "Horse Trotting (Base)",
+   "ja": "馬・速歩（基本）",
+   "ko": "말 속보 (기본)"
+  },
+  "category": "马",
+  "rating": "general",
+  "description": "trotting with diagonal legs moving together: near front leg and far hind leg swung forward and lifted with the near knee bent forward, far front leg and near hind leg planted and angled back, body level, tail lifted slightly and flowing behind, neck raised, head on the vertical line, ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A082_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A082_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A082_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A082_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A082_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A082_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A082_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A082_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A084",
+  "type": "animal",
+  "name": "马·卧下（基础）",
+  "names": {
+   "en": "Horse Lying Down (Base)",
+   "ja": "馬・伏せて休む（基本）",
+   "ko": "말 엎드려 쉬기 (기본)"
+  },
+  "category": "马",
+  "rating": "general",
+  "description": "lying down resting on its chest and belly: both front legs folded under the chest with the knees bent forward and the hooves tucked beneath, both hind legs folded along the near side of the body with the hocks pointing back, back level, tail lying on the ground behind, neck upright, head raised, ears forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A084_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A084_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A084_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A084_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A084_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A084_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A084_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A084_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A084_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A084_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A085",
+  "type": "animal",
+  "name": "驴·站立（基础）",
+  "names": {
+   "en": "Donkey Standing (Base)",
+   "ja": "ロバ・立ち姿（基本）",
+   "ko": "당나귀 서기 (기본)"
+  },
+  "category": "驴与家畜",
+  "rating": "general",
+  "description": "standing square on level ground: both front legs straight and vertical under the chest, both hind legs under the hips with the hocks bending backward, straight back, thin tufted tail hanging down, neck level, large head slightly low, long ears upright",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A085_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A085_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A085_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A085_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A085_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A085_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A085_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A085_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A086",
+  "type": "animal",
+  "name": "牛·站立（基础）",
+  "names": {
+   "en": "Cow Standing (Base)",
+   "ja": "牛・立ち姿（基本）",
+   "ko": "소 서기 (기본)"
+  },
+  "category": "驴与家畜",
+  "rating": "general",
+  "description": "standing square on level ground: both front legs straight under the chest, both hind legs under the hips with the hocks bending backward, long straight back with the hip bones showing, long thin tufted tail hanging down to the hocks, neck level, head level, two short horns and ears out to the sides",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A086_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A086_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A086_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A086_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A086_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A086_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A087",
+  "type": "animal",
+  "name": "山羊·站立（基础）",
+  "names": {
+   "en": "Goat Standing (Base)",
+   "ja": "ヤギ・立ち姿（基本）",
+   "ko": "염소 서기 (기본)"
+  },
+  "category": "驴与家畜",
+  "rating": "general",
+  "description": "standing alert on flat ground with all four hooves planted: both front legs straight under the chest, both hind legs under the hips with the hocks bending backward, back level, short tail flicked up, neck raised, head up and facing forward, two horns curving back, small beard under the chin, ears out to the sides",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A087_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A087_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A087_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A087_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A087_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A087_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A088",
+  "type": "animal",
+  "name": "绵羊·站立（基础）",
+  "names": {
+   "en": "Sheep Standing (Base)",
+   "ja": "ヒツジ・立ち姿（基本）",
+   "ko": "양 서기 (기본)"
+  },
+  "category": "驴与家畜",
+  "rating": "general",
+  "description": "standing square on level ground: rounded fleecy body level, both thin front legs straight under the chest, both thin hind legs under the hips with the hocks bending backward, short tail hanging down at the rump, neck short, head level and facing forward, ears out to the sides, no horns",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A088_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A088_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A088_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A088_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A088_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A088_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A088_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A088_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A089",
+  "type": "animal",
+  "name": "乌鸦·站立（基础）",
+  "names": {
+   "en": "Crow Standing (Base)",
+   "ja": "カラス・立ち姿（基本）",
+   "ko": "까마귀 서기 (기본)"
+  },
+  "category": "鸦",
+  "rating": "general",
+  "description": "standing upright on both feet on flat ground, wings folded neatly against the body with the wingtips resting over the tail, body tilted about 30 degrees from vertical, head turned slightly to its left, strong straight beak closed; exactly two legs, each foot with three toes forward and one toe back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A089_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A089_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A089_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A089_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A089_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A089_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A089_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A089_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A089_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A089_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A090",
+  "type": "animal",
+  "name": "鸽子·踱步（基础）",
+  "names": {
+   "en": "Pigeon Walking (Base)",
+   "ja": "ハト・歩く（基本）",
+   "ko": "비둘기 걷기 (기본)"
+  },
+  "category": "鸽与小鸟",
+  "rating": "general",
+  "description": "walking mid-step: the right foot planted flat, the left foot lifted forward off the ground, plump chest out, head pushed forward on the neck, wings folded against the body, tail level; exactly two legs, each foot with three toes forward and one back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A090_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A090_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A090_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A090_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A090_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A090_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A090_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A090_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A090_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A090_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A091",
+  "type": "animal",
+  "name": "天鹅·浮游姿态（基础）",
+  "names": {
+   "en": "Swan Gliding Pose (Base)",
+   "ja": "白鳥・浮かぶ姿（基本）",
+   "ko": "백조 떠 있는 자세 (기본)"
+  },
+  "category": "水鸟与涉禽",
+  "rating": "general",
+  "description": "resting in its swimming posture with the body level and the legs hidden beneath it as if afloat, but with no water drawn: wings folded and slightly raised over the back, long neck in a graceful S-curve, head level with the beak pointing slightly down",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A091_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A091_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A091_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A091_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A091_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A091_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A091_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A091_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A092",
+  "type": "animal",
+  "name": "猫头鹰·立姿（基础）",
+  "names": {
+   "en": "Owl Standing (Base)",
+   "ja": "フクロウ・立ち姿（基本）",
+   "ko": "올빼미 서기 (기본)"
+  },
+  "category": "猛禽与猫头鹰",
+  "rating": "general",
+  "description": "standing upright on both feet on flat ground with no branch, round body upright, wings folded at the sides, round flat facial disc facing forward, two short ear tufts, feathered legs, each foot with two toes forward and two back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A092_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A092_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A092_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A092_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A092_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A092_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A092_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A092_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A092_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A092_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A093",
+  "type": "animal",
+  "name": "鹰·展翅落地（基础）",
+  "names": {
+   "en": "Eagle Landing (Base)",
+   "ja": "ワシ・着地（基本）",
+   "ko": "독수리 착지 (기본)"
+  },
+  "category": "猛禽与猫头鹰",
+  "rating": "general",
+  "description": "the moment before landing: both wings spread wide and raised in a high V above the back with the primaries splayed, body tilted back almost upright, both legs reaching forward and down with talons open, tail fanned and pressed down as a brake, head level looking ahead; no prey",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A093_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A093_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A093_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A093_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A093_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A093_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A093_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A093_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A093_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A093_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A094",
+  "type": "animal",
+  "name": "鹦鹉·站立（基础）",
+  "names": {
+   "en": "Parrot Standing (Base)",
+   "ja": "オウム・立ち姿（基本）",
+   "ko": "앵무새 서기 (기본)"
+  },
+  "category": "鸽与小鸟",
+  "rating": "general",
+  "description": "standing upright on both feet on flat ground, body leaning slightly forward, wings folded at the sides, long tail hanging straight down behind, large curved hooked beak, head turned three-quarter toward image-left; each foot with two toes forward and two back",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A094_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A094_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A094_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A094_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A094_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A094_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A094_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A094_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A094_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A094_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A095",
+  "type": "animal",
+  "name": "鹤·单腿站立（基础）",
+  "names": {
+   "en": "Crane Standing on One Leg (Base)",
+   "ja": "ツル・片足立ち（基本）",
+   "ko": "두루미 한 다리 서기 (기본)"
+  },
+  "category": "水鸟与涉禽",
+  "rating": "general",
+  "description": "standing still on one long straight leg on flat ground, the other leg folded up under the body with the foot hidden in the belly feathers, long straight neck held upright, long straight beak level, wings folded with the curved inner feathers drooping over the tail",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A095_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A095_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A095_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A095_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A096",
+  "type": "animal",
+  "name": "鹿·站立（基础）",
+  "names": {
+   "en": "Deer Standing (Base)",
+   "ja": "シカ・立ち姿（基本）",
+   "ko": "사슴 서기 (기본)"
+  },
+  "category": "有蹄类",
+  "rating": "general",
+  "description": "standing calmly on all four slender legs, front legs straight and parallel, hind legs set back with the hocks angled backward, neck raised, head level and alert, two branched antlers with matching points on each side, ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A096_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A096_above.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A096_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A096_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A096_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A096_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A097",
+  "type": "animal",
+  "name": "狐狸·坐（基础）",
+  "names": {
+   "en": "Fox Sitting (Base)",
+   "ja": "キツネ・お座り（基本）",
+   "ko": "여우 앉기 (기본)"
+  },
+  "category": "狐与狼",
+  "rating": "general",
+  "description": "sitting on its haunches with straight front legs together, hind legs folded at the sides, bushy tail wrapped forward around the front paws, pointed muzzle, large upright pointed ears, head level facing forward",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A097_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A097_above.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A097_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A097_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A097_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A097_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A099",
+  "type": "animal",
+  "name": "狼·站立（基础）",
+  "names": {
+   "en": "Wolf Standing (Base)",
+   "ja": "オオカミ・立ち姿（基本）",
+   "ko": "늑대 서기 (기본)"
+  },
+  "category": "狐与狼",
+  "rating": "general",
+  "description": "standing calmly on all four legs, front legs straight under the deep chest, hind legs set back with the hocks angled backward, long straight back, head level, mouth closed, ears up, tail hanging low and straight",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A099_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A099_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A099_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A099_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A099_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A099_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A100",
+  "type": "animal",
+  "name": "棕熊·四足行走（基础）",
+  "names": {
+   "en": "Bear Walking (Base)",
+   "ja": "ヒグマ・四足歩行（基本）",
+   "ko": "불곰 걷기 (기본)"
+  },
+  "category": "熊与熊猫",
+  "rating": "general",
+  "description": "walking on all four legs mid-stride: the right front and left hind legs forward, the left front and right hind legs back, heavy shoulder hump, head held low and level, flat-footed hind paws with the heel touching the ground, mouth closed",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A100_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A100_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A100_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A100_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A100_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A100_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A100_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A100_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A100_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A100_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A101",
+  "type": "animal",
+  "name": "棕熊·直立观望（基础）",
+  "names": {
+   "en": "Bear Standing Upright (Base)",
+   "ja": "ヒグマ・立ち上がる（基本）",
+   "ko": "불곰 일어서기 (기본)"
+  },
+  "category": "熊与熊猫",
+  "rating": "general",
+  "description": "standing calmly upright on both flat hind feet to look around, body vertical, front legs hanging relaxed in front of the chest with the paws down, head raised and level, ears up, mouth closed; not threatening, no raised claws",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A101_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A101_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A101_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A101_diag.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A101_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A101_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A102",
+  "type": "animal",
+  "name": "老虎·趴卧（基础）",
+  "names": {
+   "en": "Tiger Lying Down (Base)",
+   "ja": "トラ・伏せ（基本）",
+   "ko": "호랑이 엎드리기 (기본)"
+  },
+  "category": "大型猫科",
+  "rating": "general",
+  "description": "lying in a calm sphinx position: belly on the ground, front legs stretched straight forward and parallel, hind legs folded under the hips, head raised level facing forward, mouth closed, tail lying along the ground in a curve",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A102_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A102_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A102_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A102_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A102_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A102_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A102_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A102_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A103",
+  "type": "animal",
+  "name": "狮子·坐（基础）",
+  "names": {
+   "en": "Lion Sitting (Base)",
+   "ja": "ライオン・お座り（基本）",
+   "ko": "사자 앉기 (기본)"
+  },
+  "category": "大型猫科",
+  "rating": "general",
+  "description": "sitting upright on its haunches, front legs straight and close together, hind legs folded at the sides, chest out, head held high facing forward with the full mane around it, mouth closed, tail curled forward along the ground",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A103_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A103_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A103_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A103_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A103_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A103_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A103_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A103_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A103_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A103_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A104",
+  "type": "animal",
+  "name": "大象·站立（基础）",
+  "names": {
+   "en": "Elephant Standing (Base)",
+   "ja": "ゾウ・立ち姿（基本）",
+   "ko": "코끼리 서기 (기본)"
+  },
+  "category": "有蹄类",
+  "rating": "general",
+  "description": "standing calmly on four thick pillar-like legs, the knees of the front legs bending forward and the hind legs bending backward, large ears relaxed against the head, trunk hanging straight down with the tip curled slightly forward, two short tusks",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A104_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A104_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A104_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A104_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A104_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A104_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A104_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A104_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A104_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A104_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A105",
+  "type": "animal",
+  "name": "长颈鹿·站立（基础）",
+  "names": {
+   "en": "Giraffe Standing (Base)",
+   "ja": "キリン・立ち姿（基本）",
+   "ko": "기린 서기 (기본)"
+  },
+  "category": "有蹄类",
+  "rating": "general",
+  "description": "standing calmly on four long legs, front legs slightly longer than the hind legs so the back slopes down to the hips, very long neck raised at about 60 degrees, head level, two short ossicone horns, ears out to the sides",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A105_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A105_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A105_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A105_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A105_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A105_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A105_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A105_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A106",
+  "type": "animal",
+  "name": "熊猫·坐（基础）",
+  "names": {
+   "en": "Panda Sitting (Base)",
+   "ja": "パンダ・座る（基本）",
+   "ko": "판다 앉기 (기본)"
+  },
+  "category": "熊与熊猫",
+  "rating": "general",
+  "description": "sitting upright on its bottom with the hind legs stretched forward and apart on the ground, back rounded and leaning slightly back, front paws resting on the belly, round head facing forward, round ears up",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A106_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A106_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A106_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A106_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A106_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A106_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A107",
+  "type": "animal",
+  "name": "小熊猫·站立（基础）",
+  "names": {
+   "en": "Red Panda Standing (Base)",
+   "ja": "レッサーパンダ・立ち姿（基本）",
+   "ko": "레서판다 서기 (기본)"
+  },
+  "category": "小型野生动物",
+  "rating": "general",
+  "description": "standing calmly on all four short legs, back slightly arched, head level facing forward with the white face, rounded upright ears, long bushy tail held out behind and curving slightly down",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A107_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A107_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A107_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A107_below.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A107_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A107_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A107_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A107_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A108",
+  "type": "animal",
+  "name": "中国龙·腾飞（基础）",
+  "names": {
+   "en": "Chinese Dragon Flying (Base)",
+   "ja": "中国の竜・飛翔（基本）",
+   "ko": "중국 용 비상 (기본)"
+  },
+  "category": "东方龙",
+  "rating": "general",
+  "description": "flying forward through the air with no wings, the long body undulating in three gentle waves behind the head, head stretched forward facing the camera, front legs reaching forward with claws open, hind legs trailing back, whiskers streaming back, tail trailing at the end",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A108_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A108_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A108_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A108_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A108_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A108_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A108_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A108_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A109",
+  "type": "animal",
+  "name": "西方龙·收翼站立（基础）",
+  "names": {
+   "en": "Western Dragon Standing (Base)",
+   "ja": "西洋の竜・翼をたたんで立つ（基本）",
+   "ko": "서양 용 날개 접고 서기 (기본)"
+  },
+  "category": "西方龙",
+  "rating": "general",
+  "description": "standing on all four legs, the two wings folded tight against the sides of the body, neck raised in a gentle curve, head level facing forward, mouth closed, tail lying along the ground behind; each foot with four clawed toes; six limbs in total: four legs and two wings",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A109_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A109_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A109_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A109_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A109_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A109_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A109_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A109_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A110",
+  "type": "animal",
+  "name": "西方龙·展翼（基础）",
+  "names": {
+   "en": "Western Dragon Wings Spread (Base)",
+   "ja": "西洋の竜・翼を広げる（基本）",
+   "ko": "서양 용 날개 펼치기 (기본)"
+  },
+  "category": "西方龙",
+  "rating": "general",
+  "description": "standing on its two hind legs and leaning slightly forward with the two front legs held off the ground in front of the chest, both wings spread fully open and raised above the shoulders with the wing membranes stretched between four long finger bones each, neck raised, mouth closed, tail on the ground behind for balance",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A110_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A110_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A110_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A110_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A110_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A110_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A110_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A110_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A110_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A110_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A111",
+  "type": "animal",
+  "name": "独角兽·站立（基础）",
+  "names": {
+   "en": "Unicorn Standing (Base)",
+   "ja": "ユニコーン・立ち姿（基本）",
+   "ko": "유니콘 서기 (기본)"
+  },
+  "category": "独角兽与麒麟",
+  "rating": "general",
+  "description": "standing calmly on all four legs, front legs straight, hind legs set back with the hocks angled backward, neck arched, head level, one straight spiralled horn in the middle of the forehead, mane falling on one side, tail hanging down",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A111_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A111_above.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A111_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A111_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A111_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A111_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A111_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A111_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A112",
+  "type": "animal",
+  "name": "独角兽·扬蹄（基础）",
+  "names": {
+   "en": "Unicorn Rearing (Base)",
+   "ja": "ユニコーン・前足を上げる（基本）",
+   "ko": "유니콘 앞발 들기 (기본)"
+  },
+  "category": "独角兽与麒麟",
+  "rating": "general",
+  "description": "rearing up on both hind legs with the hind hooves planted on the ground, body raised at about 60 degrees, both front legs lifted and folded at the knee in front of the chest, neck arched, head raised, one spiralled horn on the forehead, tail flowing down behind",
+  "variants": {
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A112_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A112_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A112_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A112_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A112_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A112_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A113",
+  "type": "animal",
+  "name": "狮鹫·站立（基础）",
+  "names": {
+   "en": "Griffin Standing (Base)",
+   "ja": "グリフォン・立ち姿（基本）",
+   "ko": "그리핀 서기 (기본)"
+  },
+  "category": "狮鹫与灵兽",
+  "rating": "general",
+  "description": "standing on all four legs, the two front legs feathered with eagle talons, the two hind legs furred with lion paws, two feathered wings half-folded and raised slightly from the back, eagle head level facing forward, hooked beak closed, lion tail curving behind",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A113_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A113_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A113_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A113_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A113_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A113_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A113_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A113_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A113_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A113_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A114",
+  "type": "animal",
+  "name": "麒麟·站立（基础）",
+  "names": {
+   "en": "Qilin Standing (Base)",
+   "ja": "麒麟・立ち姿（基本）",
+   "ko": "기린(영수) 서기 (기본)"
+  },
+  "category": "独角兽与麒麟",
+  "rating": "general",
+  "description": "standing calmly on all four slender legs with one front leg raised and bent at the knee, neck raised, head facing forward, one curved backswept horn, two whiskers, mane and tail flowing, no flames, no clouds",
+  "variants": {
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A114_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A114_below.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A114_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A114_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "A116",
+  "type": "animal",
+  "name": "神鸟·展翅（基础）",
+  "names": {
+   "en": "Mythical Bird Wings Spread (Base)",
+   "ja": "霊鳥・翼を広げる（基本）",
+   "ko": "신조 날개 펼치기 (기본)"
+  },
+  "category": "狮鹫与灵兽",
+  "rating": "general",
+  "description": "hovering upright in the air with both wings spread wide to the sides and slightly raised, primaries splayed, both legs tucked under the body, long neck raised, head level facing forward, three crest plumes on the head, five long tail plumes trailing down in gentle curves; no fire, no glow",
+  "variants": {
+   "above": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A116_above.webp",
+     "w900": "assets/animal/plain/w900/animal_A116_above.webp"
+    }
+   },
+   "below": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A116_below.webp",
+     "w900": "assets/animal/plain/w900/animal_A116_below.webp"
+    }
+   },
+   "diag": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A116_diag.webp",
+     "w900": "assets/animal/plain/w900/animal_A116_diag.webp"
+    }
+   },
+   "front": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A116_front.webp",
+     "w900": "assets/animal/plain/w900/animal_A116_front.webp"
+    }
+   },
+   "side": {
+    "image": {
+     "w300": "assets/animal/plain/w300/animal_A116_side.webp",
+     "w900": "assets/animal/plain/w900/animal_A116_side.webp"
+    }
+   }
+  }
+ }
+]
